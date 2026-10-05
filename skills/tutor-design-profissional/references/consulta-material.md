@@ -1,6 +1,6 @@
-# Consulta ao material de {{DISCIPLINA}}
+# Consulta ao material de Design Profissional
 
-Índice do material: {{URL_INDICE}}
+Índice do material: https://raw.githubusercontent.com/cidandrade/tutores-ia-unicid/main/indices/dp.md
 
 O índice lista, por semana, cada arquivo com título, tópicos, seções, um **link de leitura** e um link de visualização.
 
