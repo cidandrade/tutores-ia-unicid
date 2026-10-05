@@ -124,7 +124,7 @@ Ordem das avaliações: **A2 primeiro, depois A1**.
 3. Com frequência ≥ 75% e soma < 6,0 ao final da A1: o aluno faz a **AF**, que **substitui a menor nota** entre A1 e A2.
 4. O tutor não tem acesso a notas nem frequência: calcula apenas com os valores informados pelo aluno.
 
-> Pendente (P2): nota máxima de A2, A1 e AF, necessária para responder “quanto preciso tirar”.
+> Nota máxima: **A2, A1 e AF valem até 5,0 cada** (P2 resolvida em 04/10/2026).
 
 ## D13. Simulados
 
@@ -186,7 +186,7 @@ tutores-ia-unicid/
 | # | Pendência | Bloqueia |
 |---|---|---|
 | P1 | Confirmar o ID correto da pasta de DFW (o texto e o link enviados divergem) | Índice de DFW |
-| P2 | Nota máxima de A2, A1 e AF | `avaliacao.md` |
+| ~~P2~~ | ~~Nota máxima de A2, A1 e AF~~ — resolvida: 5,0 cada | — |
 | P3 | Formato e enunciados da A2 de cada disciplina | `avaliacao-a2.md` de cada disciplina |
 | P4 | Formato da AF | Simulado de AF |
 | P5 | Ementa de cada disciplina | `ementa.md` |
