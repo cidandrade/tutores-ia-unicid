@@ -1,0 +1,10 @@
+# Segredos
+.env
+
+# Pacotes gerados por scripts/montar.py (publicados na Release)
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
