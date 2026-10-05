@@ -10,11 +10,18 @@ arquivos:
     modificado: '2026-08-27T18:22:36.035Z'
     link_leitura: https://drive.google.com/uc?export=download&id=11OYv5kQReikNHdioaMyNC7njKnXA5MAk
     link_visualizacao: https://drive.google.com/file/d/11OYv5kQReikNHdioaMyNC7njKnXA5MAk/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '0'
+    resumo: 'Apresentação do professor na primeira aula: formação acadêmica, experiência docente, áreas de atuação, livros e sistemas desenvolvidos, e canais de contato.'
+    topicos:
+    - apresentação do professor
+    - canais de contato
+    secoes:
+    - Jornada Acadêmica
+    - Experiência Docente
+    - Atuação Profissional & Expertise
+    - Produção Autoral & Desenvolvimento de Sistemas
+    - Conecte-se com o Professor
   1I7pRjdHZ9AfNvwwHaIa_fHZfUthmOQGY:
     nome: 00-02_Apresentacao_Disciplina.pptx
     tipo: PPTX
@@ -22,11 +29,20 @@ arquivos:
     modificado: '2026-08-27T18:22:40.366Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1I7pRjdHZ9AfNvwwHaIa_fHZfUthmOQGY
     link_visualizacao: https://drive.google.com/file/d/1I7pRjdHZ9AfNvwwHaIa_fHZfUthmOQGY/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '0'
+    resumo: 'Slides do plano da disciplina: ementa, subcompetência, organização em quatro unidades (HTML5, CSS3, JavaScript, versionamento e infraestrutura), objetivos de conhecimento, habilidades e atitudes, e o conteúdo detalhado de cada unidade.'
+    topicos:
+    - plano da disciplina
+    - ementa
+    - unidades
+    - objetivos
+    secoes:
+    - Ementa
+    - Como o programa se organiza
+    - Objetivos
+    - Objetivos (atitudes) & Experiências
+    - Conteúdo
   1Fqfpsm5mE2Nc7wOAioZe-LXfzV0J1fhH:
     nome: 00-03_Avaliacao_A2_Desenvolvimento_Frontend_para_Web.pptx
     tipo: PPTX
@@ -34,11 +50,21 @@ arquivos:
     modificado: '2026-08-27T18:22:44.536Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1Fqfpsm5mE2Nc7wOAioZe-LXfzV0J1fhH
     link_visualizacao: https://drive.google.com/file/d/1Fqfpsm5mE2Nc7wOAioZe-LXfzV0J1fhH/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '0'
+    resumo: 'Slides que explicam a A2: projeto em grupo com o site de uma organização real, Entrega 1 (2,0, fundação em HTML5) e Entrega 2 (3,0, identidade visual e GitHub), regras da organização (real, com acesso, porte adequado, sem troca) e a regra de aprovação NF = A1 + A2 ≥ 6,0.'
+    topicos:
+    - A2
+    - Entrega 1
+    - Entrega 2
+    - organização real
+    - regra de aprovação
+    secoes:
+    - Como a nota se forma
+    - 'O que é avaliado: Entrega 1'
+    - 'O que é avaliado: Entrega 2'
+    - O site é para uma organização real
+    - O que isso exige do grupo
   1hc9F6hbVgn-062MYflVa41pDo3ZGyAdk:
     nome: 00-04_IntroducaoAoDesenvolvimentoWeb.pptx
     tipo: PPTX
@@ -46,47 +72,31 @@ arquivos:
     modificado: '2026-08-27T18:22:50.146Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1hc9F6hbVgn-062MYflVa41pDo3ZGyAdk
     link_visualizacao: https://drive.google.com/file/d/1hc9F6hbVgn-062MYflVa41pDo3ZGyAdk/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4:
-    nome: 00-05_Entrega1.md
-    tipo: Google Docs
-    caminho: ''
-    modificado: '2026-09-18T12:10:18.545Z'
-    link_leitura: https://docs.google.com/document/d/1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4/export?format=txt
-    link_visualizacao: https://drive.google.com/file/d/1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw:
-    nome: 00-06_Guia_Git_GitHub_Quatro_Cenarios.docx
-    tipo: Google Docs
-    caminho: ''
-    modificado: '2026-09-18T11:46:01.953Z'
-    link_leitura: https://docs.google.com/document/d/1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw/export?format=txt
-    link_visualizacao: https://drive.google.com/file/d/1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1qbb13Bg0obEziJNStU3ahDMLsC-XBC96:
-    nome: 00_Links importantes.docx
-    tipo: DOCX
-    caminho: ''
-    modificado: '2026-09-20T00:25:59.744Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1qbb13Bg0obEziJNStU3ahDMLsC-XBC96
-    link_visualizacao: https://drive.google.com/file/d/1qbb13Bg0obEziJNStU3ahDMLsC-XBC96/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '0'
+    resumo: 'Slides introdutórios (só em imagem, sem texto selecionável) sobre o projeto digital: escala da internet, internet e web, domínio, site e webapp, ciclo de uma requisição, cliente-servidor, front-end e back-end, mercado de trabalho, ferramentas, HTML e CSS, pastas do projeto, WCAG e SEO/GEO.'
+    topicos:
+    - internet e web
+    - cliente-servidor
+    - front-end e back-end
+    - mercado de trabalho
+    - estrutura de pastas
+    - WCAG
+    - SEO e GEO
+    secoes:
+    - A Escala Global da Conectividade
+    - A Infraestrutura e o Serviço
+    - A Anatomia dos Endereços Digitais
+    - O Ciclo de Vida de um Clique
+    - O Modelo Cliente-Servidor
+    - 'Matriz de Especialização: Front-end vs. Back-end'
+    - O Deficit de Talentos e a Realidade Full-Stack
+    - A Bancada de Trabalho do Desenvolvedor
+    - 'A Fundação Visual: HTML e CSS'
+    - A Engenharia de Pastas do Projeto
+    - 'Design Universal: Acessibilidade Web (WCAG)'
+    - 'A Nova Batalha da Descoberta: SEO vs. GEO'
+    - A Síntese do Ecossistema Web
   1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6:
     nome: 01-01a_DetalhandoAWeb.pptx
     tipo: PPTX
@@ -94,11 +104,30 @@ arquivos:
     modificado: '2026-08-27T18:23:57.320Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6
     link_visualizacao: https://drive.google.com/file/d/1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '0'
+    resumo: 'Slides (só em imagem, sem texto selecionável) sobre o que acontece ao clicar num link: web e internet, DNS, cliente e servidor, requisição e resposta HTTP (200, 404), HTTPS, evolução do HTML, estrutura do documento, semântica, DOM e DevTools, separação entre HTML e CSS.'
+    topicos:
+    - HTTP
+    - HTTPS
+    - DNS
+    - cliente-servidor
+    - códigos de status
+    - estrutura HTML
+    - HTML semântico
+    - DOM
+    - DevTools
+    secoes:
+    - 'A Web vs. A Internet: O Sistema de Endereçamento'
+    - 'Cliente e Servidor: Os Protagonistas'
+    - 'HTTP: O Idioma de Entrega da Web'
+    - Anatomia de uma Conversa Web
+    - A Evolução do Pacote de Dados
+    - 'Desempacotando a Planta Baixa: A Estrutura HTML'
+    - 'HTML Semântico: Falando com Máquinas e Algoritmos'
+    - O Motor de Renderização e o DevTools
+    - 'Separação de Responsabilidades: HTML vs. CSS'
+    - 'O Ecossistema da Web: Matriz de Camadas'
   1SjjEHuQ22emhuxmOlOFOLHYB24r0nO9W:
     nome: 01-01b_HTML.pptx
     tipo: PPTX
@@ -106,11 +135,32 @@ arquivos:
     modificado: '2026-08-27T18:24:03.285Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1SjjEHuQ22emhuxmOlOFOLHYB24r0nO9W
     link_visualizacao: https://drive.google.com/file/d/1SjjEHuQ22emhuxmOlOFOLHYB24r0nO9W/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '1'
+    resumo: 'Slides (só em imagem, sem texto selecionável) sobre a estrutura básica do HTML: anatomia de um elemento, atributos id, class e title, DOCTYPE, head e body, metadados, aninhamento, comentários, títulos h1 a h6, parágrafo e quebra de linha, e marcação de texto pelo significado.'
+    topicos:
+    - estrutura do documento HTML
+    - elementos e atributos
+    - metadados
+    - aninhamento
+    - comentários
+    - títulos
+    - parágrafos
+    - marcação de texto
+    secoes:
+    - O Esqueleto da Web
+    - A Anatomia de um Elemento
+    - 'Atributos: O Painel de Controle das Tags'
+    - A Fundação Obrigatória
+    - 'O Cérebro da Página: Metadados'
+    - 'O Palco Principal: <body>'
+    - A Regra de Ouro do Aninhamento
+    - 'Deixando Migalhas de Pão: Comentários'
+    - 'Estruturando o Texto: Hierarquia de Títulos'
+    - 'Matriz de Diagnóstico: Parágrafos vs. Quebras'
+    - 'Marcação Básica: Significado > Aparência'
+    - Ferramentas de Precisão (Micro-marcação)
+    - 'Síntese: A Construção do Projeto'
   131ZaPK54M4KKNYWxySRPgy1so2cUjVgU:
     nome: 01-01c_projeto01.zip
     tipo: ZIP
@@ -118,11 +168,20 @@ arquivos:
     modificado: '2026-08-27T18:24:15.984Z'
     link_leitura: https://drive.google.com/uc?export=download&id=131ZaPK54M4KKNYWxySRPgy1so2cUjVgU
     link_visualizacao: https://drive.google.com/file/d/131ZaPK54M4KKNYWxySRPgy1so2cUjVgU/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '1'
+    resumo: 'Projeto feito em aula (arquivo .zip): três páginas HTML ligadas entre si com títulos, parágrafos, formatação de texto (mark, strong, em, del, ins, sub, sup), comentário, listas ordenada e não ordenada, tabela e imagem.'
+    topicos:
+    - primeiro projeto HTML
+    - links entre páginas
+    - listas
+    - tabela
+    - imagem
+    - formatação de texto
+    secoes:
+    - index.html
+    - index2.html
+    - index3.html
   1cA4JNV93QWBM64-C_FWUZiAewluZetq7:
     nome: 01-02a_Elementos semânticos e não-semânticos, hierarquia de conteúdo.pdf
     tipo: PDF
@@ -130,11 +189,24 @@ arquivos:
     modificado: '2026-08-27T18:24:29.101Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1cA4JNV93QWBM64-C_FWUZiAewluZetq7
     link_visualizacao: https://drive.google.com/file/d/1cA4JNV93QWBM64-C_FWUZiAewluZetq7/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Apostila sobre elementos estruturais do HTML5: semânticos e não semânticos (div, span), hierarquia de títulos, formulários de interação e recursos multimídia, com analogias, aplicação no mercado e glossário.'
+    topicos:
+    - elementos semânticos
+    - div e span
+    - hierarquia de títulos
+    - formulários
+    - multimídia
+    - acessibilidade
+    - SEO
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: Articulação e Funcionamento'
+    - 4. Aplicação Prática no Mercado de Trabalho
+    - 6. Síntese
+    - 7. Glossário
   1ugmkWw2TEVMQAF_XriFtWIf9QblSmEmo:
     nome: 01-02b_Elementos semânticos e não-semânticos, hierarquia de conteúdo.pdf
     tipo: PDF
@@ -142,11 +214,32 @@ arquivos:
     modificado: '2026-08-27T18:24:34.978Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1ugmkWw2TEVMQAF_XriFtWIf9QblSmEmo
     link_visualizacao: https://drive.google.com/file/d/1ugmkWw2TEVMQAF_XriFtWIf9QblSmEmo/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Slides com o mesmo tema da apostila 01-02a: por que a semântica importa para buscadores e leitores de tela, header, nav, main, section, article, aside e footer, formulários (rótulos, tipos de entrada, seleção, validação nativa, fieldset), áudio, vídeo e iframe.'
+    topicos:
+    - elementos semânticos
+    - hierarquia de títulos
+    - form
+    - label
+    - tipos de input
+    - validação nativa
+    - fieldset
+    - audio e video
+    - iframe
+    secoes:
+    - O Impacto da Estrutura Ausente
+    - Semântica Versus Elementos Genéricos
+    - Hierarquia e Organização de Títulos
+    - Etiquetas Semânticas de Estrutura
+    - Fundamentos da Etiqueta Form
+    - Acessibilidade e Rótulos
+    - Tipos de Entrada de Dados
+    - Atributos de Validação Nativa
+    - Agrupamento Lógico de Campos
+    - Integração de Áudio e Vídeo
+    - Incorporação de Conteúdo Externo
+    - Síntese dos Conceitos Abordados
   1pHtW-Uli7FWrQM5erMokWRNX8ejWUH5Y:
     nome: 01-02c_Exemplo_guiado_estrutura_e_formulario.pdf
     tipo: PDF
@@ -154,11 +247,37 @@ arquivos:
     modificado: '2026-08-27T18:24:55.868Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1pHtW-Uli7FWrQM5erMokWRNX8ejWUH5Y
     link_visualizacao: https://drive.google.com/file/d/1pHtW-Uli7FWrQM5erMokWRNX8ejWUH5Y/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Exemplo guiado, passo a passo, de uma página HTML5: esqueleto, header e nav, main e article, div e span, aside, footer, e um formulário de cadastro com fieldset, label, required, pattern, radio, checkbox e select. O código final está em 01-02d.'
+    topicos:
+    - estrutura semântica
+    - formulário
+    - fieldset e legend
+    - label
+    - validação nativa
+    - required
+    - pattern
+    - radio
+    - checkbox
+    - select
+    secoes:
+    - Por que estrutura importa
+    - PARTE 1 Esqueleto semântico da página
+    - PASSO 1 · O ESQUELETO
+    - PASSO 2 · CABEÇALHO
+    - PASSO 3 · CONTEÚDO PRINCIPAL
+    - PASSO 4 · CONTEÚDO SECUNDÁRIO
+    - PASSO 5 · RODAPÉ
+    - PARTE 2 O formulário
+    - PASSO 6 · O FORMULÁRIO
+    - PASSO 7 · AGRUPANDO CAMPOS
+    - PASSO 8 · RÓTULO E CAMPO
+    - PASSO 9 · VALIDAÇÃO NATIVA
+    - PASSO 10 · ESCOLHA ÚNICA
+    - PASSO 11 · SIM OU NÃO
+    - PASSO 12 · LISTA SUSPENSA
+    - O documento completo
   17nfrJe9p2O_wxXaIyhXmvG_87jCPDlvl:
     nome: 01-02d_exemplo.html.pdf
     tipo: PDF
@@ -166,35 +285,15 @@ arquivos:
     modificado: '2026-08-27T18:25:04.637Z'
     link_leitura: https://drive.google.com/uc?export=download&id=17nfrJe9p2O_wxXaIyhXmvG_87jCPDlvl
     link_visualizacao: https://drive.google.com/file/d/17nfrJe9p2O_wxXaIyhXmvG_87jCPDlvl/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ:
-    nome: '01-03a_Recursos gráficos: Canvas e SVG.pdf'
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-27T18:25:55.397Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ
-    link_visualizacao: https://drive.google.com/file/d/1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0:
-    nome: '01-03b_Recursos gráficos: Canvas e SVG.pdf'
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-27T18:26:06.149Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0
-    link_visualizacao: https://drive.google.com/file/d/1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Código completo (exemplo.html) do exemplo guiado 01-02c: página semântica de uma escola fictícia com formulário de cadastro validado pelo próprio HTML.'
+    topicos:
+    - código de exemplo
+    - estrutura semântica
+    - formulário
+    secoes:
+    - 'Arquivo: exemplo.html'
   1C8Iw861tyPKiUpAZHA1Y7swK3fhnGrBu:
     nome: 01-03c_Exemplo_guiado_video_audio_e_iframe.pdf
     tipo: PDF
@@ -202,11 +301,29 @@ arquivos:
     modificado: '2026-08-27T18:26:22.665Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1C8Iw861tyPKiUpAZHA1Y7swK3fhnGrBu
     link_visualizacao: https://drive.google.com/file/d/1C8Iw861tyPKiUpAZHA1Y7swK3fhnGrBu/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Exemplo guiado de mídia em HTML5: video com controles, vários source e texto alternativo, poster, loop, muted e autoplay, audio, e iframe com title, loading e sandbox. O código final está em 01-03d.'
+    topicos:
+    - video
+    - audio
+    - source
+    - poster
+    - autoplay
+    - iframe
+    - loading
+    - sandbox
+    secoes:
+    - Nem todo conteúdo é texto
+    - PARTE 1 Vídeo e áudio
+    - PASSO 1 · O PLAYER DE VÍDEO
+    - PASSO 2 · MAIS DE UM FORMATO
+    - PASSO 3 · CAPA E COMPORTAMENTO
+    - PASSO 4 · O PLAYER DE ÁUDIO
+    - PARTE 2 Iframe
+    - PASSO 5 · A JANELA PARA OUTRO SITE
+    - PASSO 6 · CARREGAMENTO E SEGURANÇA
+    - Quando usar iframe
   1xunrlM1Cl0tlrVUxlVFtask40leTU90I:
     nome: 01-03d_multimidia.html.pdf
     tipo: PDF
@@ -214,11 +331,69 @@ arquivos:
     modificado: '2026-08-27T18:26:33.800Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1xunrlM1Cl0tlrVUxlVFtask40leTU90I
     link_visualizacao: https://drive.google.com/file/d/1xunrlM1Cl0tlrVUxlVFtask40leTU90I/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Código completo do exemplo guiado 01-03c: página com vídeo, podcast em áudio e mapa incorporado por iframe.'
+    topicos:
+    - código de exemplo
+    - video
+    - audio
+    - iframe
+    secoes:
+    - 'Arquivo: exemplo.html'
+  1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ:
+    nome: '01-03a_Recursos gráficos: Canvas e SVG.pdf'
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:25:55.397Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ
+    link_visualizacao: https://drive.google.com/file/d/1hA08YzP9wG84cKSOY5NWVvcnxPLAx3XJ/view
+    status: ok
+    semana: '3'
+    resumo: 'Apostila sobre gráficos na web: SVG (vetor descrito em XML, escalável e acessível pelo DOM) e Canvas (bitmap desenhado por script), comparação técnica, quando usar cada um, erros frequentes e glossário.'
+    topicos:
+    - SVG
+    - Canvas
+    - vetor e bitmap
+    - escalabilidade
+    - acessibilidade
+    - SEO
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Elementos Gráficos'
+    - '4. Aplicação: Cenário no Mercado de Trabalho'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - Glossário
+  1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0:
+    nome: '01-03b_Recursos gráficos: Canvas e SVG.pdf'
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:26:06.149Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0
+    link_visualizacao: https://drive.google.com/file/d/1DXuJ4x90Rb4MufDYYLqbaDtXN0LDKSc0/view
+    status: ok
+    semana: '3'
+    resumo: 'Slides com o mesmo tema da apostila 01-03a: elementos do SVG (svg, circle, rect, path, line, polygon, text), indexação e acessibilidade de gráficos, Canvas e a grade de pixels, como escolher entre os dois e erros comuns.'
+    topicos:
+    - SVG
+    - Canvas
+    - elementos do SVG
+    - aria-label
+    - vetor e bitmap
+    secoes:
+    - Por que isso importa
+    - PARTE 1 Gráficos vetoriais com SVG
+    - O que é o SVG
+    - Os blocos de construção do SVG
+    - Indexação e acessibilidade não são a mesma coisa
+    - PARTE 2 Bitmap e a superfície do Canvas
+    - O que é o Canvas
+    - SVG ou Canvas — como escolher
+    - Onde cada um aparece no mercado
+    - Erros e confusões frequentes
+    - Síntese
   1RddEhDB4UGP2bgPHpMUKM00ZGY1DLs33:
     nome: 01-04a_Validação W3C.pdf
     tipo: PDF
@@ -226,11 +401,23 @@ arquivos:
     modificado: '2026-08-27T17:13:56.123Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1RddEhDB4UGP2bgPHpMUKM00ZGY1DLs33
     link_visualizacao: https://drive.google.com/file/d/1RddEhDB4UGP2bgPHpMUKM00ZGY1DLs33/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Apostila sobre validação W3C: o que são os padrões web, como usar o W3C Validator, por que validar (compatibilidade, acessibilidade, SEO) e os erros mais comuns (tags mal fechadas, id duplicado, alt ausente, atributos obsoletos).'
+    topicos:
+    - W3C
+    - W3C Validator
+    - padrões web
+    - erros de validação
+    - aninhamento
+    - atributo alt
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: O Processo de Validação'
+    - '4. Aplicação: Validação no Mercado Profissional'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
   1tI_WNIfBYeDiQYaSo35osT6mkZK8vkc8:
     nome: 01-04b_Validação W3C.pdf
     tipo: PDF
@@ -238,11 +425,55 @@ arquivos:
     modificado: '2026-08-27T17:13:58.813Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1tI_WNIfBYeDiQYaSo35osT6mkZK8vkc8
     link_visualizacao: https://drive.google.com/file/d/1tI_WNIfBYeDiQYaSo35osT6mkZK8vkc8/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Slides com o mesmo tema da apostila 01-04a: por que validar, os três métodos de teste do W3C Validator (endereço, upload e colar o código), diferença entre erro e aviso, opções avançadas e os quatro erros mais recorrentes.'
+    topicos:
+    - W3C Validator
+    - erros e avisos
+    - métodos de validação
+    secoes:
+    - Por que validar
+    - PARTE 1 O que é validar e por quê
+    - PARTE 2 Como usar o W3C Validator
+    - Três métodos de teste
+    - Erros × avisos
+    - Opções avançadas do validador
+    - PARTE 3 Erros mais comuns
+    - Síntese
+  1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw:
+    nome: 00-06_Guia_Git_GitHub_Quatro_Cenarios.docx
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-09-18T11:46:01.953Z'
+    link_leitura: https://docs.google.com/document/d/1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1E8l8tph-C3hpvsYsPHsHApJajaTw6NdVKyi5b2QI2kw/view
+    status: ok
+    semana: '4'
+    resumo: 'Guia de trabalho em grupo no GitHub com a main protegida e pull request obrigatório: identidade e autenticação do Git, papel do administrador (repositório público, colaboradores, ruleset ativo) e o mesmo fluxo em quatro cenários (VS Code, Claude Code, terminal e celular), com revisão, merge, conflitos e comandos de referência.'
+    topicos:
+    - Git
+    - GitHub
+    - branch
+    - pull request
+    - ruleset
+    - conflitos
+    - VS Code
+    - terminal
+    secoes:
+    - Parte I — Fundamentos
+    - 1. Antes de começar
+    - '2. O Administrador: setup e proteção da main'
+    - Parte II — Os quatro cenários
+    - Cenário 1 — VS Code
+    - Cenário 2 — Claude Code
+    - Cenário 3 — Direto no terminal
+    - Cenário 4 — Celular
+    - Parte III — Comum a todos os cenários
+    - 5. Abrindo o Pull Request (Colaborador)
+    - 8. Quando dá conflito
+    - Parte IV — Referência rápida
+    - 9. Comandos essenciais e seus equivalentes
   1QWeOxGFKeMXmw77xAzVJADL90UuZyu6X:
     nome: 01-05_bGit e GitHub — Versionamento e Colaboração.pdf
     tipo: PDF
@@ -250,11 +481,31 @@ arquivos:
     modificado: '2026-09-01T16:01:07.285Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1QWeOxGFKeMXmw77xAzVJADL90UuZyu6X
     link_visualizacao: https://drive.google.com/file/d/1QWeOxGFKeMXmw77xAzVJADL90UuZyu6X/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Slides sobre Git e GitHub para projetos em grupo: o que o Git registra, o caminho de uma alteração, o Git no VS Code, uma pasta por tipo de arquivo, README, diferença entre Git e GitHub, uma branch por parte do projeto e como as partes se juntam.'
+    topicos:
+    - Git
+    - GitHub
+    - commit
+    - branch
+    - pull request
+    - README
+    - organização de pastas
+    secoes:
+    - Por que isso importa
+    - PARTE 1 Git
+    - O que o Git faz
+    - O caminho de uma alteração
+    - PARTE 2 A organização
+    - Uma pasta por tipo de arquivo
+    - O README é a primeira impressão
+    - PARTE 3 GitHub
+    - Git e GitHub não são a mesma coisa
+    - Uma branch por parte do projeto
+    - Como as partes se juntam de volta
+    - Erros e confusões frequentes
+    - Síntese
   1uXh7cfF4JXa5Y1SvLgs6DeSzQv3v-k6I:
     nome: 01-05a_Git e GitHub — Versionamento e Colaboração.pdf
     tipo: PDF
@@ -262,11 +513,23 @@ arquivos:
     modificado: '2026-09-01T14:40:02.562Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1uXh7cfF4JXa5Y1SvLgs6DeSzQv3v-k6I
     link_visualizacao: https://drive.google.com/file/d/1uXh7cfF4JXa5Y1SvLgs6DeSzQv3v-k6I/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Apostila com o mesmo tema dos slides 01-05b: versionamento com Git, colaboração no GitHub, estrutura do repositório e ferramentas, aplicação em equipe profissional, erros frequentes e glossário.'
+    topicos:
+    - Git
+    - GitHub
+    - versionamento
+    - colaboração
+    - repositório
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos fundamentais
+    - '3. Desenvolvimento: A Estrutura e as Ferramentas'
+    - '4. Aplicação: Cenário Profissional'
+    - 5. Erros e confusões frequentes
+    - 6. Síntese
+    - 7. Glossário
   1EqV2VwVjsIwV3eK2AlIeE4EXLdEYHKek:
     nome: 01-05c_Tutorial_Git_VSCode_Equipes.pdf
     tipo: PDF
@@ -274,11 +537,21 @@ arquivos:
     modificado: '2026-09-01T16:11:24.855Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1EqV2VwVjsIwV3eK2AlIeE4EXLdEYHKek
     link_visualizacao: https://drive.google.com/file/d/1EqV2VwVjsIwV3eK2AlIeE4EXLdEYHKek/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Tutorial curto de Git no VS Code para equipes: extensões, estratégia de branches, o ciclo atualizar, desenvolver, commit, push e pull request, e resolução de conflitos de merge pelo editor.'
+    topicos:
+    - VS Code
+    - branches
+    - commit
+    - push
+    - pull request
+    - conflitos de merge
+    secoes:
+    - 1. Extensões no VSCode
+    - 2. Estratégia de Branches
+    - 3. O Ciclo de Trabalho (Evitando Conflitos)
+    - 4. Resolução de Conflitos de Merge
   1qAA5BTdtFREqt7VgXB9fD3K1ftpTcJ1r:
     nome: 01-05d_Versionamento-HTML-CSS-equipe-GitGitHub-VSCode.pdf
     tipo: PDF
@@ -286,11 +559,23 @@ arquivos:
     modificado: '2026-09-01T16:24:18.197Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1qAA5BTdtFREqt7VgXB9fD3K1ftpTcJ1r
     link_visualizacao: https://drive.google.com/file/d/1qAA5BTdtFREqt7VgXB9fD3K1ftpTcJ1r/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Slides com o mesmo conteúdo do tutorial 01-05c: preparação do Git, extensões do VS Code, como criar e nomear branches, ciclo de trabalho até o pull request, identificação e resolução de conflitos e boas práticas.'
+    topicos:
+    - VS Code
+    - branches
+    - pull request
+    - conflitos de merge
+    - boas práticas
+    secoes:
+    - Preparação do Ambiente Git Local
+    - CAPÍTULO 1 Extensões Essenciais no VSCode
+    - CAPÍTULO 2 Estratégia de Branches
+    - CAPÍTULO 3 O Ciclo de Trabalho
+    - CAPÍTULO 4 Resolução de Conflitos
+    - Boas Práticas em Resumo
+    - Fluxo Completo da Equipe
   1h7KiaQfSQ1lttjeCQH4VEipNcLaql9jH:
     nome: 02-01a_Sintaxe_seletores e propriedades.pdf
     tipo: PDF
@@ -298,11 +583,25 @@ arquivos:
     modificado: '2026-09-08T17:42:07.042Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1h7KiaQfSQ1lttjeCQH4VEipNcLaql9jH
     link_visualizacao: https://drive.google.com/file/d/1h7KiaQfSQ1lttjeCQH4VEipNcLaql9jH/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Apostila de introdução ao CSS3: separação entre estrutura e apresentação, sintaxe da regra, formas de aplicar, seletores, cascata e especificidade, box model, padronização visual no mercado, erros frequentes e glossário.'
+    topicos:
+    - CSS3
+    - sintaxe
+    - seletores
+    - cascata
+    - especificidade
+    - box model
+    - unidades
+    secoes:
+    - '1. Contextualização: O Papel Visual na Experiência Digital'
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação das Folhas de Estilo'
+    - '4. Aplicação: Padronização Visual no Mercado de Trabalho'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   1iknaZZjUispyya7J-jBwcFAFFOy_9BMG:
     nome: 02-01b_Sintaxe_seletores e propriedades.pdf
     tipo: PDF
@@ -310,11 +609,31 @@ arquivos:
     modificado: '2026-09-08T17:40:45.951Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1iknaZZjUispyya7J-jBwcFAFFOy_9BMG
     link_visualizacao: https://drive.google.com/file/d/1iknaZZjUispyya7J-jBwcFAFFOy_9BMG/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Slides com o mesmo tema da apostila 02-01a: anatomia da regra CSS, CSS inline, interno e externo, cascata e critérios de desempate, peso dos seletores, seletores simples e combinadores, cores, tipografia, box model, inspeção no navegador e um cartão pessoal estilizado.'
+    topicos:
+    - CSS3
+    - inline
+    - interno e externo
+    - cascata
+    - especificidade
+    - seletores
+    - combinadores
+    - box model
+    - DevTools
+    secoes:
+    - Anatomia de uma regra CSS
+    - Três formas de aplicar CSS
+    - 'Cascata: de onde vêm os estilos'
+    - Três critérios de desempate
+    - O peso de cada seletor
+    - Seletores simples
+    - Combinadores de seletores
+    - Cores, tipografia e espaçamento
+    - O modelo de caixa (Box Model)
+    - Inspecionando estilos no navegador
+    - Estilizando um cartão pessoal
   1dPlG5W84oAXA5bu2VIcGoOL8FSZZiiFs:
     nome: 02-01c_Aplicação de estilos em textos, links, tabelas, bordas, listas e fundo da página.pdf
     tipo: PDF
@@ -322,11 +641,24 @@ arquivos:
     modificado: '2026-09-08T18:59:20.114Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1dPlG5W84oAXA5bu2VIcGoOL8FSZZiiFs
     link_visualizacao: https://drive.google.com/file/d/1dPlG5W84oAXA5bu2VIcGoOL8FSZZiiFs/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: Apostila sobre aplicar estilos a textos, links, tabelas, bordas, listas e fundo da página, com aplicação no mercado e erros comuns (bordas duplas em tabelas, borda sem estilo, marcadores e recuos padrão das listas).
+    topicos:
+    - estilos de texto
+    - links
+    - tabelas
+    - bordas
+    - listas
+    - fundo
+    - border-collapse
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Estilos'
+    - 4. Aplicação Prática no Mercado de Trabalho
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
   1u1DcKuqpubeDKSAx33wwA5osF_9IeXX6:
     nome: 02-01d_Aplicação de estilos.pdf
     tipo: PDF
@@ -334,11 +666,57 @@ arquivos:
     modificado: '2026-09-08T19:00:30.144Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1u1DcKuqpubeDKSAx33wwA5osF_9IeXX6
     link_visualizacao: https://drive.google.com/file/d/1u1DcKuqpubeDKSAx33wwA5osF_9IeXX6/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Slides com o mesmo tema da apostila 02-01c: cor e contraste, as quatro pseudo-classes de link, marcadores e lista transformada em menu, propriedades de tabela, separate e collapse, bordas, cantos, sombra e fundo com imagem e gradiente.'
+    topicos:
+    - contraste
+    - pseudo-classes de link
+    - list-style
+    - tabelas
+    - border-collapse
+    - border-radius
+    - box-shadow
+    - gradiente
+    secoes:
+    - Por que a aplicação importa
+    - Cor de texto e de fundo
+    - 'A regra de ouro: contraste'
+    - As quatro pseudo-classes de link
+    - O marcador da lista
+    - De lista a menu de navegação
+    - Propriedades de tabela
+    - separate x collapse
+    - Bordas, cantos e sombra
+    - Fundo com imagem e gradiente
+  1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4:
+    nome: 00-05_Entrega1.md
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-09-18T12:10:18.545Z'
+    link_leitura: https://docs.google.com/document/d/1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1U06j29ksieosQnyqXSIYWc7xFBjoU-aRCtv7Not40H4/view
+    status: ok
+    semana: '6'
+    resumo: 'Orientações oficiais da Entrega 1 (prazo 18/09, 2,0 pontos): site de organização real com 10 páginas HTML5 interligadas, semântica, formulário com validação nativa, áudio e vídeo, validação W3C, repositório no GitHub, README com relato e foto da entrevista, site hospedado e checklist final.'
+    topicos:
+    - Entrega 1
+    - organização real
+    - 10 páginas
+    - validação nativa
+    - W3C
+    - GitHub
+    - README
+    - hospedagem
+    secoes:
+    - 1. Visão geral
+    - 2. A organização real
+    - 3. Estrutura do site (10 páginas)
+    - 4. Requisitos técnicos obrigatórios
+    - 5. Repositório no GitHub
+    - 6. README do projeto
+    - 7. Hospedagem
+    - 8. Checklist final antes de entregar
   12A5bPnzgiMSy4wO_vfz-aj2DtDV_aFWz:
     nome: 02-01e_Flexbox_Grid_Layout_pseudo-classes e pseudo-elementos.pdf
     tipo: PDF
@@ -346,11 +724,24 @@ arquivos:
     modificado: '2026-09-16T19:38:18.776Z'
     link_leitura: https://drive.google.com/uc?export=download&id=12A5bPnzgiMSy4wO_vfz-aj2DtDV_aFWz
     link_visualizacao: https://drive.google.com/file/d/12A5bPnzgiMSy4wO_vfz-aj2DtDV_aFWz/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '6'
+    resumo: 'Apostila sobre layout em CSS: posicionamento (static, relative, absolute, fixed, sticky) e z-index, Flexbox, Grid, pseudo-classes e pseudo-elementos, especificidade, uso no mercado e erros frequentes de posicionamento.'
+    topicos:
+    - position
+    - z-index
+    - Flexbox
+    - Grid
+    - pseudo-classes
+    - pseudo-elementos
+    - especificidade
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Elementos de Layout'
+    - '4. Aplicação: Cenário do Mercado de Trabalho'
+    - 6. Síntese
+    - 7. Glossário
   1dmB4ngcDaR4HyOEFtBQw0OmQrgOFWrkH:
     nome: 02-01f_Flexbox_Grid_Layout_pseudo-classes e pseudo-elementos.pdf
     tipo: PDF
@@ -358,11 +749,31 @@ arquivos:
     modificado: '2026-09-16T19:41:04.943Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1dmB4ngcDaR4HyOEFtBQw0OmQrgOFWrkH
     link_visualizacao: https://drive.google.com/file/d/1dmB4ngcDaR4HyOEFtBQw0OmQrgOFWrkH/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '6'
+    resumo: 'Slides com o mesmo tema da apostila 02-01e: modelo de posicionamento e z-index, contêiner e itens Flex, Grid com áreas e espaçamento, comparação Flexbox e Grid, pseudo-classes de interação e estruturais, :not() e pseudo-elementos.'
+    topicos:
+    - position
+    - z-index
+    - Flexbox
+    - Grid
+    - grid-template-areas
+    - pseudo-classes
+    - pseudo-elementos
+    secoes:
+    - Posicionamento de Elementos
+    - O Modelo de Posicionamento (position)
+    - z-index e Erros Comuns de Posicionamento
+    - Flexbox e Grid Layout
+    - Fundamentos do Contêiner Flex
+    - Gestão de Itens Flexíveis
+    - O Modelo de Grade (CSS Grid)
+    - Áreas e Espaçamento em Grid
+    - 'Comparação: Flexbox vs. Grid Layout'
+    - Pseudo-classes e Pseudo-elementos
+    - Pseudo-classes de Interação
+    - Pseudo-classes Estruturais
+    - O Poder da Negação e os Pseudo-elementos
   1iAoMIi61kg5uo0-LSE3PpBL9TdU1ziyr:
     nome: 02-01g_HTML_CSS_Direto_Reto_Posicionamento.pdf
     tipo: PDF
@@ -370,11 +781,41 @@ arquivos:
     modificado: '2026-09-18T11:46:19.361Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1iAoMIi61kg5uo0-LSE3PpBL9TdU1ziyr
     link_visualizacao: https://drive.google.com/file/d/1iAoMIi61kg5uo0-LSE3PpBL9TdU1ziyr/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '6'
+    resumo: 'Livro do professor "HTML e CSS: Direto e Reto" (57 páginas), referência para o semestre todo: web e HTML, semântica, CSS e seletores, DevTools, cores e fontes, listas, formulários, tabelas, links e imagens, box model, posicionamento, Flexbox, Grid e media queries, com desafios práticos.'
+    topicos:
+    - HTML
+    - semântica
+    - CSS
+    - seletores
+    - DevTools
+    - cores e fontes
+    - formulários
+    - tabelas
+    - box model
+    - posicionamento
+    - Flexbox
+    - Grid
+    - media queries
+    secoes:
+    - Introdução à Web e ao HTML
+    - Estrutura Básica de um Documento HTML
+    - Marcando o Texto
+    - Elementos Semânticos do HTML5
+    - Introdução ao CSS
+    - Seletores CSS Essenciais
+    - DevTools
+    - Cores e Fontes
+    - Listas
+    - Formulários
+    - Tabelas
+    - Links e Imagens
+    - O Modelo de Caixa (Box Model)
+    - Posicionamento de elementos
+    - Leiaute com Flexbox
+    - Leiaute com CSS Grid
+    - Design Responsivo com Media Queries
   1xP1TyUJJco9WfapaiguzbUtKxMonphfO:
     nome: 03-01_Variáveis CSS (custom properties).pdf
     tipo: PDF
@@ -382,11 +823,24 @@ arquivos:
     modificado: '2026-09-20T00:16:57.407Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1xP1TyUJJco9WfapaiguzbUtKxMonphfO
     link_visualizacao: https://drive.google.com/file/d/1xP1TyUJJco9WfapaiguzbUtKxMonphfO/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: 'Apostila sobre variáveis CSS (custom properties): declaração no :root e uso com var(), escopo e herança, gerenciamento de componentes, fallback e erros frequentes (variável em media query, maiúsculas e minúsculas).'
+    topicos:
+    - variáveis CSS
+    - custom properties
+    - :root
+    - var()
+    - escopo
+    - fallback
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos fundamentais
+    - '3. Desenvolvimento: Mecanismos e Funcionamento'
+    - '4. Aplicação: Gerenciamento de Componentes'
+    - 5. Erros e confusões frequentes
+    - 6. Síntese
+    - 7. Glossário
   1Uscz_ZaQxdvBEwbyZqP1HhE5z2gB4MWd:
     nome: 03-02_Variáveis CSS (custom properties).pdf
     tipo: PDF
@@ -394,11 +848,22 @@ arquivos:
     modificado: '2026-09-20T00:18:07.465Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1Uscz_ZaQxdvBEwbyZqP1HhE5z2gB4MWd
     link_visualizacao: https://drive.google.com/file/d/1Uscz_ZaQxdvBEwbyZqP1HhE5z2gB4MWd/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: 'Slides com o mesmo tema da apostila 03-01: o problema da repetição, declarar e usar variáveis, convenções de nome, escopo global e local, fallback e valor inválido, e o registro formal com @property.'
+    topicos:
+    - variáveis CSS
+    - escopo
+    - fallback
+    - '@property'
+    secoes:
+    - O problema
+    - PARTE 1 Declaração e uso
+    - PARTE 2 Escopo e cascata
+    - PARTE 3 Fallback e erros
+    - PARTE 4 @property
+    - Para levar
+    - Síntese
   1joWnebqJgB1hA2zT2A6pIExwunt2U1Ts:
     nome: 03-03_Estilização de menus horizontal e vertical.pdf
     tipo: PDF
@@ -406,11 +871,24 @@ arquivos:
     modificado: '2026-09-20T20:07:04.846Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1joWnebqJgB1hA2zT2A6pIExwunt2U1Ts
     link_visualizacao: https://drive.google.com/file/d/1joWnebqJgB1hA2zT2A6pIExwunt2U1Ts/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: 'Apostila sobre menus em CSS: lista dentro de nav, remoção de estilos padrão, menu horizontal com inline-block ou Flexbox, área de clique, transições, dropdown, menu vertical, responsividade com media query e erros frequentes.'
+    topicos:
+    - menu horizontal
+    - menu vertical
+    - dropdown
+    - nav e ul
+    - Flexbox
+    - media query
+    - transition
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos fundamentais
+    - '3. Desenvolvimento: Construção e Articulação dos Menus'
+    - '4. Aplicação: Exemplo Prático no Mercado'
+    - 5. Erros e confusões frequentes
+    - 7. Glossário
   111GTI2gbWaq4iQ7yD4iBzuZw3Ru9xHap:
     nome: 03-04_Estilização de menus horizontal e vertical.pdf
     tipo: PDF
@@ -418,11 +896,27 @@ arquivos:
     modificado: '2026-09-20T20:08:30.195Z'
     link_leitura: https://drive.google.com/uc?export=download&id=111GTI2gbWaq4iQ7yD4iBzuZw3Ru9xHap
     link_visualizacao: https://drive.google.com/file/d/111GTI2gbWaq4iQ7yD4iBzuZw3Ru9xHap/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: 'Slides com o mesmo tema da apostila 03-03: da lista à barra horizontal, hover e acabamento, dropdown com pai relativo e submenu absoluto, menu vertical lateral, menu responsivo e o menu de uma loja virtual.'
+    topicos:
+    - menu horizontal
+    - dropdown
+    - position relative e absolute
+    - menu vertical
+    - responsividade
+    secoes:
+    - PARTE 1 Menus horizontais
+    - Da lista à barra horizontal
+    - Feedback e acabamento
+    - PARTE 2 Menus dropdown
+    - Pai relativo, submenu absoluto
+    - Mostrar e ocultar com display
+    - PARTE 3 Menus verticais e responsividade
+    - Do horizontal ao vertical
+    - Menu de uma loja virtual
+    - Propriedades por tipo de menu
+    - Onde os menus costumam falhar
   15MVd2dP76Q5U3clvtjPZsiizy4ie46tm:
     nome: 03-05_Domando_Menus__Horizontal_ao_Vertical.png
     tipo: PNG
@@ -430,11 +924,22 @@ arquivos:
     modificado: '2026-09-20T20:54:15.804Z'
     link_leitura: https://drive.google.com/uc?export=download&id=15MVd2dP76Q5U3clvtjPZsiizy4ie46tm
     link_visualizacao: https://drive.google.com/file/d/15MVd2dP76Q5U3clvtjPZsiizy4ie46tm/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: 'Infográfico (imagem) que resume os menus: nav com ul, lista transformada em barra horizontal, hover com transition, flex-direction para alternar horizontal e vertical, fixed e sticky, e media queries.'
+    topicos:
+    - menus
+    - hover
+    - flex-direction
+    - fixed e sticky
+    - media query
+    secoes:
+    - O Esqueleto e a Base Horizontal
+    - Transformando em Horizontal
+    - 'O Toque do Usuário: Efeito Hover'
+    - Controle, Eixos e Responsividade
+    - Posicionamento Fixo vs. Aderente
+    - A Metamorfose com Media Queries
   1JgVoHpU4ObLhj4QyRF9dSSRLOxlj1ooL:
     nome: '04-01_Estilização de componentes: botões, formulários e cards.pdf'
     tipo: PDF
@@ -442,11 +947,30 @@ arquivos:
     modificado: '2026-09-29T17:08:37.637Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1JgVoHpU4ObLhj4QyRF9dSSRLOxlj1ooL
     link_visualizacao: https://drive.google.com/file/d/1JgVoHpU4ObLhj4QyRF9dSSRLOxlj1ooL/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '8'
+    resumo: 'Apostila sobre estilização de componentes: formulários semânticos (form, input, label), background, bordas e cards, ícones com SVG sprite, fases de renderização do navegador e acessibilidade pelo teclado, com glossário.'
+    topicos:
+    - botões
+    - campos de formulário
+    - cards
+    - background
+    - SVG sprite
+    - renderização
+    - acessibilidade por teclado
+    secoes:
+    - '1. Contextualização: por que este tema importa na prática'
+    - 2. Conceitos fundamentais
+    - 2.1. Estruturação Semântica de Formulários
+    - 2.2. Estilização Visual e Otimização de Fundo
+    - 2.3. Borda e Estrutura de Componentes e Cards
+    - 2.4. Vetores e Reutilização de Ícones com SVG Sprites
+    - 2.5. Fluxo de Renderização do Navegador
+    - 2.6. Acessibilidade Digital e Interatividade via Teclado
+    - 3. Desenvolvimento
+    - 4. Aplicação
+    - 6. Síntese
+    - 7. Glossário
   1vioGJoySWXXLYOAX1kaAXLC2FS3IfulR:
     nome: 04-02_Estilização de componentes_ botões, formulários e cards.pdf
     tipo: PDF
@@ -454,11 +978,31 @@ arquivos:
     modificado: '2026-09-29T17:09:41.039Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1vioGJoySWXXLYOAX1kaAXLC2FS3IfulR
     link_visualizacao: https://drive.google.com/file/d/1vioGJoySWXXLYOAX1kaAXLC2FS3IfulR/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '8'
+    resumo: 'Slides com o mesmo tema da apostila 04-01: rótulo e campo, bordas e cantos, background, SVG sprite, estados hover e foco com transition, custo de animar cada propriedade, botão e campo na prática e a anatomia de um card.'
+    topicos:
+    - botões
+    - campos
+    - foco visível
+    - hover
+    - transition
+    - SVG sprite
+    - cards
+    secoes:
+    - O problema
+    - PARTE 1 Estrutura e aparência
+    - Rótulo e campo andam juntos
+    - Bordas e cantos arredondados
+    - O shorthand background
+    - 'SVG sprite: um desenho, vários usos'
+    - PARTE 2 Estados e animação
+    - Hover, foco e transition
+    - As quatro fases de cada quadro
+    - 'Botão: aparência'
+    - 'Botão: estados e ícone'
+    - 'Campo: estado de foco'
+    - Anatomia de um card
   18PLc-mPbA78u7wfsGfodhOzfqiFgqxt-YgPXHtvFu3Q:
     nome: 04-03_Roteiro_Design System de Websites por Área
     tipo: Google Docs
@@ -466,11 +1010,22 @@ arquivos:
     modificado: '2026-10-02T12:53:03.202Z'
     link_leitura: https://docs.google.com/document/d/18PLc-mPbA78u7wfsGfodhOzfqiFgqxt-YgPXHtvFu3Q/export?format=txt
     link_visualizacao: https://drive.google.com/file/d/18PLc-mPbA78u7wfsGfodhOzfqiFgqxt-YgPXHtvFu3Q/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '8'
+    resumo: 'Roteiro de atividade para montar o design system do site do grupo: pesquisar dez sites bonitos da área, usar uma IA para extrair cores, fontes, componentes e responsividade, e validar no DevTools antes de montar o :root do projeto.'
+    topicos:
+    - design system
+    - variáveis CSS
+    - responsividade
+    - mobile-first
+    - IA no front-end
+    - DevTools
+    - contraste
+    secoes:
+    - Visão geral
+    - Etapa 1 — Encontrar os dez sites
+    - Etapa 2 — Extrair o Design System com IA
+    - Etapa 3 — Validar e adotar
   1iXe5TvgcZMNsEU3apOQVB3Kq2m__2ZG_:
     nome: 05-01_JavaScript_variáveis_funções_eventos_DOM.pdf
     tipo: PDF
@@ -478,11 +1033,22 @@ arquivos:
     modificado: '2026-10-04T23:16:13.304Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1iXe5TvgcZMNsEU3apOQVB3Kq2m__2ZG_
     link_visualizacao: https://drive.google.com/file/d/1iXe5TvgcZMNsEU3apOQVB3Kq2m__2ZG_/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '9'
+    resumo: 'Apostila sobre JavaScript no front-end: variáveis, funções, eventos e DOM aplicados a um player de vídeo (selecionar o elemento, play e pausa, barra de progresso, fim da mídia), com erros frequentes e glossário.'
+    topicos:
+    - JavaScript
+    - variáveis
+    - funções
+    - eventos
+    - DOM
+    - vídeo e áudio por JS
+    secoes:
+    - '1. Contextualização: O Papel do JavaScript na Interatividade Web'
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: Articulação e Controle de Mídia Passo a Passo'
+    - 5. Erros e Confusões Frequentes
+    - 7. Glossário Rápido
   1-Slftw3QXqyU-PZUnlKR4h7_1WZmCjQE:
     nome: 05-02_JavaScript_variáveis_funções_eventos_DOM.pdf
     tipo: PDF
@@ -490,8 +1056,46 @@ arquivos:
     modificado: '2026-10-04T23:31:15.665Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1-Slftw3QXqyU-PZUnlKR4h7_1WZmCjQE
     link_visualizacao: https://drive.google.com/file/d/1-Slftw3QXqyU-PZUnlKR4h7_1WZmCjQE/view
-    status: pendente
+    status: ok
+    semana: '9'
+    resumo: 'Slides com o mesmo tema da apostila 05-01: variáveis e escopo, funções e eventos, DOM como árvore de objetos, e a revisão de vídeo e áudio (métodos, propriedades e eventos) com um player construído em quatro passos.'
+    topicos:
+    - variáveis
+    - escopo
+    - funções
+    - eventos
+    - DOM
+    - métodos e eventos de mídia
+    secoes:
+    - PARTE 1 Fundamentos
+    - 'VARIÁVEIS: Onde o estado fica guardado'
+    - 'ESCOPO: Quem enxerga a variável'
+    - 'FUNÇÕES E EVENTOS: A receita e o alarme'
+    - 'DOM: A página como árvore de objetos'
+    - PARTE 2 · REVISÃO U1.3 Vídeo e áudio
+    - MÍDIA · MÉTODOS
+    - MÍDIA · PROPRIEDADES
+    - MÍDIA · EVENTOS
+    - 'NA PRÁTICA: Um player em quatro passos'
+    - Erros frequentes
+    - Síntese
+  1qbb13Bg0obEziJNStU3ahDMLsC-XBC96:
+    nome: 00_Links importantes.docx
+    tipo: DOCX
+    caminho: ''
+    modificado: '2026-09-20T00:25:59.744Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1qbb13Bg0obEziJNStU3ahDMLsC-XBC96
+    link_visualizacao: https://drive.google.com/file/d/1qbb13Bg0obEziJNStU3ahDMLsC-XBC96/view
+    status: ok
     semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    resumo: 'Links da disciplina (pasta do Drive, playlists, podcast, redes, Laboratório CSS3) e datas oficiais: Entrega 1 em 18/09 (com o formulário de envio), Entrega 2 em 06/11, apresentação em 13/11, A1 em 27/11 e AF em 11/12.'
+    topicos:
+    - links
+    - datas
+    - Entrega 1
+    - Entrega 2
+    - A1
+    - AF
+    secoes:
+    - Links
+    - Datas
