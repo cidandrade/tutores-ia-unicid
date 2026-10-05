@@ -83,10 +83,10 @@ o .md; mostre o diff e só faça commit após minha aprovação.
 ```
 Implemente scripts/montar.py conforme D8 e D9:
 - Para cada disciplinas/<sigla>/, substitui os marcadores do _modelo/ e grava
-  skills/tutor-<sigla>/ (SKILL.md + references/, incluindo ementa.md e
+  skills/<nome_skill>/ (SKILL.md + references/, incluindo ementa.md e
   avaliacao-a2.md da disciplina).
-- Gera dist/tutor-<sigla>.zip (pronto para upload no Claude).
-- Gera dist/tutor-<sigla>-instrucoes.md (texto único para GPT e Gem) e
+- Gera dist/<nome_skill>.zip (pronto para upload no Claude).
+- Gera dist/<nome_skill>-instrucoes.md (texto único para GPT e Gem) e
   falha com mensagem clara se passar de 8.000 caracteres.
 - Valida o frontmatter: name em minúsculas e hífens; description ≤ 1.024 caracteres.
 ```

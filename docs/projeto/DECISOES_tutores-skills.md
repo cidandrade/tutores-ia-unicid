@@ -83,7 +83,7 @@ Para cada arquivo, o índice traz um link que abre sem login:
 
 - O núcleo é escrito **uma vez** em `_modelo/` com marcadores (`{{DISCIPLINA}}`, `{{SIGLA}}`, `{{ESPECIALIDADE}}`…).
 - Cada disciplina tem `disciplinas/<sigla>/` com `config.yaml` e referências específicas.
-- `scripts/montar.py` gera `skills/tutor-<sigla>/` (versionado, para navegação no GitHub) e `dist/` (zips e instruções portáteis, anexados à Release).
+- `scripts/montar.py` gera `skills/<nome_skill>/` (versionado, para navegação no GitHub; a pasta tem o mesmo nome do `name` da skill, como o formato exige) e `dist/` (zips e instruções portáteis, anexados à Release).
 - Mudança no núcleo = editar `_modelo/` + rodar `montar.py` → todas as skills atualizadas.
 
 ## D9. Portabilidade entre IAs
@@ -94,7 +94,7 @@ Para cada arquivo, o índice traz um link que abre sem login:
 | ChatGPT | Instruções portáteis coladas em GPT personalizado ou Projeto |
 | Gemini | Instruções portáteis coladas em um Gem |
 
-- `montar.py` gera `dist/tutor-<sigla>-instrucoes.md`: núcleo + referências condensadas num único texto.
+- `montar.py` gera `dist/<nome_skill>-instrucoes.md`: núcleo + referências condensadas num único texto. O núcleo ocupa cerca de 4.400 caracteres; o resto é de `ementa.md` e `avaliacao-a2.md`. Trechos entre `<!-- só-skill -->` e `<!-- /só-skill -->` entram só na skill do Claude e ficam fora das instruções portáteis.
 - **Limite de tamanho**: instruções portáteis com **até 8.000 caracteres** (limite de instruções de GPT personalizado). O script falha se ultrapassar.
 - Opção a decidir (P6): o professor publicar Gems/GPTs prontos e compartilhar o link, poupando os alunos de colar instruções.
 
@@ -166,7 +166,7 @@ tutores-ia-unicid/
 │   ├── <sigla>.yaml
 │   └── <sigla>.md
 ├── skills/                         ← gerado por montar.py
-│   └── tutor-<sigla>/
+│   └── <nome_skill>/               ← ex.: tutor-design-profissional
 │       ├── SKILL.md
 │       └── references/
 ├── scripts/
