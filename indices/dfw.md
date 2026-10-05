@@ -2,7 +2,7 @@
 
 > Atualizado em 2026-10-05. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
-## Semana 0
+## Semana 1
 
 ### 00-01_Apresentacao_Prof.pdf
 
@@ -48,8 +48,6 @@
 - **Seções:** A Web vs. A Internet: O Sistema de Endereçamento; Cliente e Servidor: Os Protagonistas; HTTP: O Idioma de Entrega da Web; Anatomia de uma Conversa Web; A Evolução do Pacote de Dados; Desempacotando a Planta Baixa: A Estrutura HTML; HTML Semântico: Falando com Máquinas e Algoritmos; O Motor de Renderização e o DevTools; Separação de Responsabilidades: HTML vs. CSS; O Ecossistema da Web: Matriz de Camadas
 - **Leitura:** https://drive.google.com/uc?export=download&id=1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6
 - **Visualizar:** https://drive.google.com/file/d/1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6/view
-
-## Semana 1
 
 ### 01-01b_HTML.pptx
 

@@ -6,8 +6,7 @@
 
 | Semana | Data | Conteúdo |
 |---|---|---|
-| 0 | 07/08 | Apresentação; 1.1 HTTP/HTTPS, estrutura de projetos, domínio, DOCTYPE |
-| 1 | 14/08 | 1.1 HTML5 básico: estrutura do documento, texto, listas, tabela, link, imagem |
+| 1 | 14/08 | Apresentação; 1.1 HTTP/HTTPS, domínio, DOCTYPE, HTML5 básico (texto, listas, tabela, link, imagem) |
 | 2 | 21/08 | 1.2 Elementos semânticos e formulários (validação, máscaras) e 1.3 multimídia (vídeo, áudio, iframe) |
 | 3 | 28/08 | 1.4 Canvas e SVG; validação W3C |
 | 4 | 04/09 | 4.1 Git e GitHub (branches, pull requests, README) |

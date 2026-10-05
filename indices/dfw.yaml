@@ -11,7 +11,7 @@ arquivos:
     link_leitura: https://drive.google.com/uc?export=download&id=11OYv5kQReikNHdioaMyNC7njKnXA5MAk
     link_visualizacao: https://drive.google.com/file/d/11OYv5kQReikNHdioaMyNC7njKnXA5MAk/view
     status: ok
-    semana: '0'
+    semana: '1'
     resumo: 'Apresentação do professor na primeira aula: formação acadêmica, experiência docente, áreas de atuação, livros e sistemas desenvolvidos, e canais de contato.'
     topicos:
     - apresentação do professor
@@ -30,7 +30,7 @@ arquivos:
     link_leitura: https://drive.google.com/uc?export=download&id=1I7pRjdHZ9AfNvwwHaIa_fHZfUthmOQGY
     link_visualizacao: https://drive.google.com/file/d/1I7pRjdHZ9AfNvwwHaIa_fHZfUthmOQGY/view
     status: ok
-    semana: '0'
+    semana: '1'
     resumo: 'Slides do plano da disciplina: ementa, subcompetência, organização em quatro unidades (HTML5, CSS3, JavaScript, versionamento e infraestrutura), objetivos de conhecimento, habilidades e atitudes, e o conteúdo detalhado de cada unidade.'
     topicos:
     - plano da disciplina
@@ -51,7 +51,7 @@ arquivos:
     link_leitura: https://drive.google.com/uc?export=download&id=1Fqfpsm5mE2Nc7wOAioZe-LXfzV0J1fhH
     link_visualizacao: https://drive.google.com/file/d/1Fqfpsm5mE2Nc7wOAioZe-LXfzV0J1fhH/view
     status: ok
-    semana: '0'
+    semana: '1'
     resumo: 'Slides que explicam a A2: projeto em grupo com o site de uma organização real, Entrega 1 (2,0, fundação em HTML5) e Entrega 2 (3,0, identidade visual e GitHub), regras da organização (real, com acesso, porte adequado, sem troca) e a regra de aprovação NF = A1 + A2 ≥ 6,0.'
     topicos:
     - A2
@@ -73,7 +73,7 @@ arquivos:
     link_leitura: https://drive.google.com/uc?export=download&id=1hc9F6hbVgn-062MYflVa41pDo3ZGyAdk
     link_visualizacao: https://drive.google.com/file/d/1hc9F6hbVgn-062MYflVa41pDo3ZGyAdk/view
     status: ok
-    semana: '0'
+    semana: '1'
     resumo: 'Slides introdutórios (só em imagem, sem texto selecionável) sobre o projeto digital: escala da internet, internet e web, domínio, site e webapp, ciclo de uma requisição, cliente-servidor, front-end e back-end, mercado de trabalho, ferramentas, HTML e CSS, pastas do projeto, WCAG e SEO/GEO.'
     topicos:
     - internet e web
@@ -105,7 +105,7 @@ arquivos:
     link_leitura: https://drive.google.com/uc?export=download&id=1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6
     link_visualizacao: https://drive.google.com/file/d/1iNvtGrgV7cPKjMogOTaQnuFfSajFIT-6/view
     status: ok
-    semana: '0'
+    semana: '1'
     resumo: 'Slides (só em imagem, sem texto selecionável) sobre o que acontece ao clicar num link: web e internet, DNS, cliente e servidor, requisição e resposta HTTP (200, 404), HTTPS, evolução do HTML, estrutura do documento, semântica, DOM e DevTools, separação entre HTML e CSS.'
     topicos:
     - HTTP
