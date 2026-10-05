@@ -1,0 +1,629 @@
+disciplina: Estruturas de Dados II
+sigla: ed2
+pasta_drive: 1JO_xwTOVjJkKsrajU6yQOFKncCZVg0BO
+atualizado_em: '2026-10-05'
+arquivos:
+  1Df2PURk9KdLZrohz8lpN1UJLo7iH5nbV:
+    nome: 00_Links importantes.docx
+    tipo: DOCX
+    caminho: ''
+    modificado: '2026-10-03T17:52:46.961Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1Df2PURk9KdLZrohz8lpN1UJLo7iH5nbV
+    link_visualizacao: https://drive.google.com/file/d/1Df2PURk9KdLZrohz8lpN1UJLo7iH5nbV/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1kLXZxlFh4qeVLOlMWMg7tTpzEz2SkjAb:
+    nome: 01-01_Apresentacao_Prof.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-16T12:12:31.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1kLXZxlFh4qeVLOlMWMg7tTpzEz2SkjAb
+    link_visualizacao: https://drive.google.com/file/d/1kLXZxlFh4qeVLOlMWMg7tTpzEz2SkjAb/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1yi0Ghy0o22KFIBgzdkjsyVDg0hXMTfEq:
+    nome: 01-02_Apresentacao_Disciplina.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-07-11T17:17:24.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1yi0Ghy0o22KFIBgzdkjsyVDg0hXMTfEq
+    link_visualizacao: https://drive.google.com/file/d/1yi0Ghy0o22KFIBgzdkjsyVDg0hXMTfEq/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1OYO-01la-ENvvQ9rKWpGqohmzGTEQ-zJ:
+    nome: 01-03_Slides_Avaliacoes.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-08-05T12:42:12.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1OYO-01la-ENvvQ9rKWpGqohmzGTEQ-zJ
+    link_visualizacao: https://drive.google.com/file/d/1OYO-01la-ENvvQ9rKWpGqohmzGTEQ-zJ/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1gW-Dw3aJhnQIPU9c_Uyt0M5pm6anNjMwEBAEHwBibwU:
+    nome: 01-04_README-template-EDII-Entrega1.md
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-09-17T12:36:10.969Z'
+    link_leitura: https://docs.google.com/document/d/1gW-Dw3aJhnQIPU9c_Uyt0M5pm6anNjMwEBAEHwBibwU/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1gW-Dw3aJhnQIPU9c_Uyt0M5pm6anNjMwEBAEHwBibwU/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1eSG1DRUBkaJ0QkP4vVdsjqW56OizHj6o-YHaO43aw_Y:
+    nome: 01-05_Guia_Git_GitHub_Quatro_Cenarios.docx
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-09-17T12:51:13.712Z'
+    link_leitura: https://docs.google.com/document/d/1eSG1DRUBkaJ0QkP4vVdsjqW56OizHj6o-YHaO43aw_Y/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1eSG1DRUBkaJ0QkP4vVdsjqW56OizHj6o-YHaO43aw_Y/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1FROpeJgN0M7-Jfjd6Nh6jAKMGT3Ac8vn:
+    nome: 02-01_Arquitetura_C.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:12.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1FROpeJgN0M7-Jfjd6Nh6jAKMGT3Ac8vn
+    link_visualizacao: https://drive.google.com/file/d/1FROpeJgN0M7-Jfjd6Nh6jAKMGT3Ac8vn/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1TZuAnidz8eIaLnjAnUorfrZd0OIy4mJO:
+    nome: 02-02_EstruturaDoC.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:14.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1TZuAnidz8eIaLnjAnUorfrZd0OIy4mJO
+    link_visualizacao: https://drive.google.com/file/d/1TZuAnidz8eIaLnjAnUorfrZd0OIy4mJO/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1iGOhqwpewKMpPV0tgLYGRFB9mdCpXvCI:
+    nome: 02-03_Preprocessador.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:18.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1iGOhqwpewKMpPV0tgLYGRFB9mdCpXvCI
+    link_visualizacao: https://drive.google.com/file/d/1iGOhqwpewKMpPV0tgLYGRFB9mdCpXvCI/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1vNq0zv0qDJoWZv_vGOwzdD6DR2SIHsmN:
+    nome: 02-04_SaidaDeDados.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:20.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1vNq0zv0qDJoWZv_vGOwzdD6DR2SIHsmN
+    link_visualizacao: https://drive.google.com/file/d/1vNq0zv0qDJoWZv_vGOwzdD6DR2SIHsmN/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1iAZPVCcjx90nTZUNDALvLHtV3NZsf3Fe:
+    nome: 02-05_EntradaDeDados.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:24.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1iAZPVCcjx90nTZUNDALvLHtV3NZsf3Fe
+    link_visualizacao: https://drive.google.com/file/d/1iAZPVCcjx90nTZUNDALvLHtV3NZsf3Fe/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1AHN_nokW6stYWyTewPeNhK8TLakIzaWP:
+    nome: 02-06_Constantes.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:26.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1AHN_nokW6stYWyTewPeNhK8TLakIzaWP
+    link_visualizacao: https://drive.google.com/file/d/1AHN_nokW6stYWyTewPeNhK8TLakIzaWP/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1z3_rHH9JMVZ8sEscEmqTfw_se-C8OYbk:
+    nome: 02-07_TiposDeDados.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:30.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1z3_rHH9JMVZ8sEscEmqTfw_se-C8OYbk
+    link_visualizacao: https://drive.google.com/file/d/1z3_rHH9JMVZ8sEscEmqTfw_se-C8OYbk/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1JjQPCOPn117oZ1fB45OSQp1iQlZx5-JN:
+    nome: 02-08_Ponteiros.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:32.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1JjQPCOPn117oZ1fB45OSQp1iQlZx5-JN
+    link_visualizacao: https://drive.google.com/file/d/1JjQPCOPn117oZ1fB45OSQp1iQlZx5-JN/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1jSDpCwfM3QgT_Gj4zrHbXrIPDzDvQ9Lf:
+    nome: 02-09_EstruturaDeDecisao.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:34.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1jSDpCwfM3QgT_Gj4zrHbXrIPDzDvQ9Lf
+    link_visualizacao: https://drive.google.com/file/d/1jSDpCwfM3QgT_Gj4zrHbXrIPDzDvQ9Lf/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1az2nbgmyHikON6YRNMCCBEr-exiK4WyA:
+    nome: 02-10_EstruturaDeRepeticao.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T03:54:38.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1az2nbgmyHikON6YRNMCCBEr-exiK4WyA
+    link_visualizacao: https://drive.google.com/file/d/1az2nbgmyHikON6YRNMCCBEr-exiK4WyA/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1Q4DMyYsVMK-VAMzuu2cA7hjMjeElJOzr:
+    nome: 02-11_Funcoes.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T04:14:22.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1Q4DMyYsVMK-VAMzuu2cA7hjMjeElJOzr
+    link_visualizacao: https://drive.google.com/file/d/1Q4DMyYsVMK-VAMzuu2cA7hjMjeElJOzr/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1papnqUz4d_xRE2sArcZOaa5jZ_kJpCah:
+    nome: 02-12_ModificadorDeArmazenamento.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-04T04:47:52.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1papnqUz4d_xRE2sArcZOaa5jZ_kJpCah
+    link_visualizacao: https://drive.google.com/file/d/1papnqUz4d_xRE2sArcZOaa5jZ_kJpCah/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1e1yfEoIknTG9XbHkyRkX7wXHOfnOuWyl:
+    nome: 02-13_Vetores_e_Matrizes.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-07T07:49:26.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1e1yfEoIknTG9XbHkyRkX7wXHOfnOuWyl
+    link_visualizacao: https://drive.google.com/file/d/1e1yfEoIknTG9XbHkyRkX7wXHOfnOuWyl/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1JSCxnBk5kf_9jFDYzVfjhlz-oW4Ofgnv:
+    nome: 02-14_ArquivosDeCabecalho.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-03-07T07:49:10.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1JSCxnBk5kf_9jFDYzVfjhlz-oW4Ofgnv
+    link_visualizacao: https://drive.google.com/file/d/1JSCxnBk5kf_9jFDYzVfjhlz-oW4Ofgnv/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1TbgDSCJmTefUbrE4LmdRMzChKA5ie-yH:
+    nome: 02-15_Exercicios.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-08-13T09:47:42.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1TbgDSCJmTefUbrE4LmdRMzChKA5ie-yH
+    link_visualizacao: https://drive.google.com/file/d/1TbgDSCJmTefUbrE4LmdRMzChKA5ie-yH/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1M8mf7F15DwvQq7eT62vjGxDHaEqTjAOs:
+    nome: 02-16_Structs.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-08-27T18:02:03.336Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1M8mf7F15DwvQq7eT62vjGxDHaEqTjAOs
+    link_visualizacao: https://drive.google.com/file/d/1M8mf7F15DwvQq7eT62vjGxDHaEqTjAOs/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1myM8HvTMC-v8EZNE2LZhqQ-nc4paGkp5:
+    nome: 02-extra-a-Complexidade.docx
+    tipo: DOCX
+    caminho: ''
+    modificado: '2026-08-27T18:04:45.578Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1myM8HvTMC-v8EZNE2LZhqQ-nc4paGkp5
+    link_visualizacao: https://drive.google.com/file/d/1myM8HvTMC-v8EZNE2LZhqQ-nc4paGkp5/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1AQIKc7uf20IJ50P_GoqlQzMykTiv3Rw3:
+    nome: 02-extra-b_Complexidade Algorítmica.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:05:00.475Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1AQIKc7uf20IJ50P_GoqlQzMykTiv3Rw3
+    link_visualizacao: https://drive.google.com/file/d/1AQIKc7uf20IJ50P_GoqlQzMykTiv3Rw3/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1mp7NCqBfQ4ePBuUq55dkxbd-QC9SKocp:
+    nome: 03-01-GerenciamentoDinamico.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:02:24.212Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1mp7NCqBfQ4ePBuUq55dkxbd-QC9SKocp
+    link_visualizacao: https://drive.google.com/file/d/1mp7NCqBfQ4ePBuUq55dkxbd-QC9SKocp/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  19nWffTrkYSiC0ctzojIW0ydlilSs2Czo:
+    nome: 03-02_Ger_Mem_Dinamica.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:02:18.487Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=19nWffTrkYSiC0ctzojIW0ydlilSs2Czo
+    link_visualizacao: https://drive.google.com/file/d/19nWffTrkYSiC0ctzojIW0ydlilSs2Czo/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1hqD31uotnqWFUOsgZxhfYh2crZiLnoDo:
+    nome: 04-01_Recursao.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-08-27T18:03:04.365Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1hqD31uotnqWFUOsgZxhfYh2crZiLnoDo
+    link_visualizacao: https://drive.google.com/file/d/1hqD31uotnqWFUOsgZxhfYh2crZiLnoDo/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1SO3zluw9J8c9dCcSjiji2N38k2K6ebUS:
+    nome: 04-02_Recursao_Exercicios.pptx
+    tipo: PPTX
+    caminho: ''
+    modificado: '2026-08-27T18:02:39.990Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1SO3zluw9J8c9dCcSjiji2N38k2K6ebUS
+    link_visualizacao: https://drive.google.com/file/d/1SO3zluw9J8c9dCcSjiji2N38k2K6ebUS/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1yf_2xYbj2jNyvrlfj0XvZyZkYmBvz31t:
+    nome: 05-01_Apostila Estrutura de Dados II.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:03:40.238Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1yf_2xYbj2jNyvrlfj0XvZyZkYmBvz31t
+    link_visualizacao: https://drive.google.com/file/d/1yf_2xYbj2jNyvrlfj0XvZyZkYmBvz31t/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1AqjBXE3igMoAOw2KXPj83RBWgHZfiLXG:
+    nome: 05-02_BST_Insercao_em_C_Comentado.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:03:55.062Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1AqjBXE3igMoAOw2KXPj83RBWgHZfiLXG
+    link_visualizacao: https://drive.google.com/file/d/1AqjBXE3igMoAOw2KXPj83RBWgHZfiLXG/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1zb7xKMBbTlW6z2wNotwJBJcPEtsOVvcH:
+    nome: 05-03_BST_Insercao_em_C.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:04:00.790Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1zb7xKMBbTlW6z2wNotwJBJcPEtsOVvcH
+    link_visualizacao: https://drive.google.com/file/d/1zb7xKMBbTlW6z2wNotwJBJcPEtsOVvcH/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1UGWfmBTK8LYswJ-AtqCR_f4aw_waYmRy:
+    nome: 05-04_ED não-lineares — panorama (árvores, grafos, heaps, hash tables).pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:04:29.678Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1UGWfmBTK8LYswJ-AtqCR_f4aw_waYmRy
+    link_visualizacao: https://drive.google.com/file/d/1UGWfmBTK8LYswJ-AtqCR_f4aw_waYmRy/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  12K5hr0X7y2qjkizWkjCob6lRATX1dqIo:
+    nome: 05-05_ED não-lineares — panorama (árvores, grafos, heaps, hash tables).pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:05:33.451Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=12K5hr0X7y2qjkizWkjCob6lRATX1dqIo
+    link_visualizacao: https://drive.google.com/file/d/12K5hr0X7y2qjkizWkjCob6lRATX1dqIo/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1HnxAIVTpMUoF5qBd2FYvP0ycldHgxMCB:
+    nome: 05-06_Introdução a árvores (terminologia, representações, tipos).pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:05:24.148Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1HnxAIVTpMUoF5qBd2FYvP0ycldHgxMCB
+    link_visualizacao: https://drive.google.com/file/d/1HnxAIVTpMUoF5qBd2FYvP0ycldHgxMCB/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1HFb5YVo1EWHKwaKdbxZrUppL70zXbPQc:
+    nome: 05-07_Introdução a árvores (terminologia, representações, tipos).pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T18:05:42.837Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1HFb5YVo1EWHKwaKdbxZrUppL70zXbPQc
+    link_visualizacao: https://drive.google.com/file/d/1HFb5YVo1EWHKwaKdbxZrUppL70zXbPQc/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1L8gzB3SxL-loyEFnGGddh6HLQ1ZYy2ey:
+    nome: 05-08_Busca_remocao.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-31T18:40:57.948Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1L8gzB3SxL-loyEFnGGddh6HLQ1ZYy2ey
+    link_visualizacao: https://drive.google.com/file/d/1L8gzB3SxL-loyEFnGGddh6HLQ1ZYy2ey/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1aW9nxSzsi4QvuW4mhZEN-_vmvwwULrkC:
+    nome: 05-09_Busca_remocao.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-01T12:54:41.104Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1aW9nxSzsi4QvuW4mhZEN-_vmvwwULrkC
+    link_visualizacao: https://drive.google.com/file/d/1aW9nxSzsi4QvuW4mhZEN-_vmvwwULrkC/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  154EIioFOfh8kWU1upbMPBsrCkRoForj3:
+    nome: 05-10_BST_Completo_em_C_Comentado.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-01T13:35:19.147Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=154EIioFOfh8kWU1upbMPBsrCkRoForj3
+    link_visualizacao: https://drive.google.com/file/d/154EIioFOfh8kWU1upbMPBsrCkRoForj3/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1FYCywNTTAoyYf19ShpQwgbMKznFnuJiA:
+    nome: 05-11_BST_Filme.zip
+    tipo: ZIP
+    caminho: ''
+    modificado: '2026-09-01T13:43:36.472Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1FYCywNTTAoyYf19ShpQwgbMKznFnuJiA
+    link_visualizacao: https://drive.google.com/file/d/1FYCywNTTAoyYf19ShpQwgbMKznFnuJiA/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1RflHB5gp36d8mlTPQuuEE3IIsvMYJ9o2:
+    nome: 05-11_exercicios-bst.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-01T13:49:23.282Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1RflHB5gp36d8mlTPQuuEE3IIsvMYJ9o2
+    link_visualizacao: https://drive.google.com/file/d/1RflHB5gp36d8mlTPQuuEE3IIsvMYJ9o2/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1vUtOkzNEb6lq1AVdSwREDTr14yEUTWrp:
+    nome: 05-11_remocaoBST.zip
+    tipo: ZIP
+    caminho: ''
+    modificado: '2026-09-03T13:57:02.287Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1vUtOkzNEb6lq1AVdSwREDTr14yEUTWrp
+    link_visualizacao: https://drive.google.com/file/d/1vUtOkzNEb6lq1AVdSwREDTr14yEUTWrp/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1-lO3qOM1YhA6aG1fcgXaRM7iuXrjl15i:
+    nome: 06-01_Árvores_Balanceadas_AVL.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-07T16:59:39.220Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1-lO3qOM1YhA6aG1fcgXaRM7iuXrjl15i
+    link_visualizacao: https://drive.google.com/file/d/1-lO3qOM1YhA6aG1fcgXaRM7iuXrjl15i/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1sbkKTYP_kLrtA9SiM63nS-tt-7yGoHUA:
+    nome: 06-02_Árvores_Balanceadas_AVL.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-07T17:10:27.329Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1sbkKTYP_kLrtA9SiM63nS-tt-7yGoHUA
+    link_visualizacao: https://drive.google.com/file/d/1sbkKTYP_kLrtA9SiM63nS-tt-7yGoHUA/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1X_CQ26L-hhEhr-vYuij2l2EckvR_39EV:
+    nome: 06-03_Árvore AVL em C.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-07T18:04:53.232Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1X_CQ26L-hhEhr-vYuij2l2EckvR_39EV
+    link_visualizacao: https://drive.google.com/file/d/1X_CQ26L-hhEhr-vYuij2l2EckvR_39EV/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1xHapsZ1bT0ZFRLFbHMmkUAW0UewfIN3_:
+    nome: 07-01_Arvore_Rubro_Negra.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-13T19:10:03.019Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1xHapsZ1bT0ZFRLFbHMmkUAW0UewfIN3_
+    link_visualizacao: https://drive.google.com/file/d/1xHapsZ1bT0ZFRLFbHMmkUAW0UewfIN3_/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  14GEFZmSVP_6DrGJk5qveDyLT3q_el6SX:
+    nome: 07-01b_Arvore Rubro-Negra.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-13T19:12:19.112Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=14GEFZmSVP_6DrGJk5qveDyLT3q_el6SX
+    link_visualizacao: https://drive.google.com/file/d/14GEFZmSVP_6DrGJk5qveDyLT3q_el6SX/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  12an7uXzZGhFR6PHagxR4iVMHrg8CPNkJ:
+    nome: 07-01c_Rubro_negra-comentado.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-13T19:20:25.246Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=12an7uXzZGhFR6PHagxR4iVMHrg8CPNkJ
+    link_visualizacao: https://drive.google.com/file/d/12an7uXzZGhFR6PHagxR4iVMHrg8CPNkJ/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1mUq-3-VTJnWFDlzWTNNPTiFPvWJSE6K7:
+    nome: 07-01d_Arvore Rubro-Negra.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-16T17:48:35.199Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1mUq-3-VTJnWFDlzWTNNPTiFPvWJSE6K7
+    link_visualizacao: https://drive.google.com/file/d/1mUq-3-VTJnWFDlzWTNNPTiFPvWJSE6K7/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1UnI4gYl9Z7j8qb6zODWWwX0YVpRJf2Uo:
+    nome: 08-01_Arvores 2-3 e 2-3-4.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-20T00:35:59.383Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1UnI4gYl9Z7j8qb6zODWWwX0YVpRJf2Uo
+    link_visualizacao: https://drive.google.com/file/d/1UnI4gYl9Z7j8qb6zODWWwX0YVpRJf2Uo/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1SXvgRndueq_8gWzg-kC28eBrXu1-MmRC:
+    nome: 08-02_Arvores 2-3 e 2-3-4.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-20T00:38:13.110Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1SXvgRndueq_8gWzg-kC28eBrXu1-MmRC
+    link_visualizacao: https://drive.google.com/file/d/1SXvgRndueq_8gWzg-kC28eBrXu1-MmRC/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1oal4YDWWycC6RQiEO-yfNFkDiuK2GM3W:
+    nome: 09-01_Árvores B e B+.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-28T00:38:25.012Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1oal4YDWWycC6RQiEO-yfNFkDiuK2GM3W
+    link_visualizacao: https://drive.google.com/file/d/1oal4YDWWycC6RQiEO-yfNFkDiuK2GM3W/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []
+  1oOHtybdiMnKFkjA00dpHCdygpoUQzmpK:
+    nome: 09-02_Árvores B e B+.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-09-28T00:38:38.679Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1oOHtybdiMnKFkjA00dpHCdygpoUQzmpK
+    link_visualizacao: https://drive.google.com/file/d/1oOHtybdiMnKFkjA00dpHCdygpoUQzmpK/view
+    status: pendente
+    semana: ''
+    resumo: ''
+    topicos: []
+    secoes: []

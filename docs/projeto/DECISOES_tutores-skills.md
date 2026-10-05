@@ -30,7 +30,7 @@
 
 | Sigla | Disciplina | Skill | Pasta do Drive (ID) |
 |---|---|---|---|
-| `dfw` | Desenvolvimento Front-End para Web | `tutor-dfw` | ⚠️ **a confirmar** — `1JhuBCFqG8S0VgGwnfR4OrZnP6fl3QK1Y` ou `1csuG61YR6Ue2zVjk5Qcw1In7Dj4I1f2t` |
+| `dfw` | Desenvolvimento Front-End para Web | `tutor-dfw` | `1csuG61YR6Ue2zVjk5Qcw1In7Dj4I1f2t` |
 | `dp` | Design Profissional | `tutor-design-profissional` | `1QYVfowSWJQoiXn6f7P8CNCJHHbd3ku-Y` |
 | `ed2` | Estruturas de Dados II | `tutor-ed2` | `1JO_xwTOVjJkKsrajU6yQOFKncCZVg0BO` |
 | `mbd` | Modelagem de Banco de Dados | `tutor-mbd` | `1QVVdiG4LxFE7L3BSnZDFmHyakaoPX94A` |
@@ -185,7 +185,7 @@ tutores-ia-unicid/
 
 | # | Pendência | Bloqueia |
 |---|---|---|
-| P1 | Confirmar o ID correto da pasta de DFW (o texto e o link enviados divergem) | Índice de DFW |
+| ~~P1~~ | ~~ID da pasta de DFW~~ — resolvida: `1csuG61YR6Ue2zVjk5Qcw1In7Dj4I1f2t` (Arquivo_DFW; a outra opção não é pública) | — |
 | ~~P2~~ | ~~Nota máxima de A2, A1 e AF~~ — resolvida: 5,0 cada | — |
 | P3 | Formato e enunciados da A2 de cada disciplina | `avaliacao-a2.md` de cada disciplina |
 | P4 | Formato da AF | Simulado de AF |

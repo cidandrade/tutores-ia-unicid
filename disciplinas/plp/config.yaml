@@ -1,0 +1,8 @@
+# Configuração do tutor de Paradigmas de Linguagens de Programação.
+# especialidade e gatilhos são preenchidos no piloto (Fase 4) ou na réplica (Fase 5).
+sigla: plp
+disciplina: Paradigmas de Linguagens de Programação
+nome_skill: tutor-plp
+pasta_drive: 1ueryzU01WBlCYrnpjuMFCtN6rhzVfVn8
+especialidade: ""
+gatilhos: ""

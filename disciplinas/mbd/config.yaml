@@ -1,0 +1,8 @@
+# Configuração do tutor de Modelagem de Banco de Dados.
+# especialidade e gatilhos são preenchidos no piloto (Fase 4) ou na réplica (Fase 5).
+sigla: mbd
+disciplina: Modelagem de Banco de Dados
+nome_skill: tutor-mbd
+pasta_drive: 1QVVdiG4LxFE7L3BSnZDFmHyakaoPX94A
+especialidade: ""
+gatilhos: ""
