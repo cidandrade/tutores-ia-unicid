@@ -4,5 +4,5 @@ sigla: mbd
 disciplina: Modelagem de Banco de Dados
 nome_skill: tutor-mbd
 pasta_drive: 1QVVdiG4LxFE7L3BSnZDFmHyakaoPX94A
-especialidade: ""
-gatilhos: ""
+especialidade: "dados e informação, ética e LGPD, modelagem conceitual (MER/DER), dicionário de dados, modelo lógico, normalização, integridade e SQL"
+gatilhos: "Também quando falar de dado e informação, LGPD, dados estruturados e não estruturados, modelo conceitual, lógico e físico, SGBD, NoSQL, MER, DER, entidade, atributo, relacionamento, cardinalidade, brModelo, DB Designer, dicionário de dados, diagrama de classes, chave primária e estrangeira, normalização (1FN, 2FN, 3FN), integridade, SQL, DML, Workbench, pgAdmin, IA na modelagem ou do projeto em grupo (Entrega 1 e Entrega 2)."
