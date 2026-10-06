@@ -4,5 +4,5 @@ sigla: ed2
 disciplina: Estruturas de Dados II
 nome_skill: tutor-ed2
 pasta_drive: 1JO_xwTOVjJkKsrajU6yQOFKncCZVg0BO
-especialidade: ""
-gatilhos: ""
+especialidade: "linguagem C, memória dinâmica, recursividade, árvores (BST, AVL, rubro-negra, 2-3, B e B+), complexidade e hashing"
+gatilhos: "Também quando falar de C, ponteiros, structs, malloc, free, recursão, backtracking, Big O, árvore binária de busca, percursos, AVL, rotações, rubro-negra, árvores 2-3 e 2-3-4, árvore B, B+, tabela hash, colisões, dataset, benchmark, testes de invariantes ou do projeto em grupo (Entrega 1, Entrega 2 e seminário)."
