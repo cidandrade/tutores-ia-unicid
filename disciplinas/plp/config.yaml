@@ -4,5 +4,5 @@ sigla: plp
 disciplina: Paradigmas de Linguagens de Programação
 nome_skill: tutor-plp
 pasta_drive: 1ueryzU01WBlCYrnpjuMFCtN6rhzVfVn8
-especialidade: ""
-gatilhos: ""
+especialidade: "história e critérios de avaliação de linguagens, compiladores e VMs, sintaxe e semântica, vinculação e tipos, memória e os paradigmas imperativo, OO, concorrente, funcional e lógico"
+gatilhos: "Também quando falar de história das linguagens, Sebesta, legibilidade, ortogonalidade, compilador, interpretador, JIT, bytecode, análise léxica e sintática, AST, escopo, binding, tipagem, passagem de parâmetros, recursão, heap, coleta de lixo, Java, Go, goroutines, channels, deadlock, Haskell, Elixir, Prolog, backtracking, CLP(FD) ou do trabalho em grupo (seminário e prova da A2)."
