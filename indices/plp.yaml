@@ -1,32 +1,8 @@
 disciplina: Paradigmas de Linguagens de Programação
 sigla: plp
 pasta_drive: 1ueryzU01WBlCYrnpjuMFCtN6rhzVfVn8
-atualizado_em: '2026-10-05'
+atualizado_em: '2026-10-06'
 arquivos:
-  1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE:
-    nome: 00_Links importantes
-    tipo: Google Docs
-    caminho: ''
-    modificado: '2026-10-04T20:58:22.530Z'
-    link_leitura: https://docs.google.com/document/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/export?format=txt
-    link_visualizacao: https://drive.google.com/file/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz:
-    nome: 00_Links importantes.docx
-    tipo: DOCX
-    caminho: ''
-    modificado: '2026-10-04T20:57:55.018Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz
-    link_visualizacao: https://drive.google.com/file/d/1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
   1EsPgbNPTsOF23rSMedtLcXurtod4tQf-:
     nome: 01-a_Apresentacao_Prof.pdf
     tipo: PDF
@@ -34,11 +10,18 @@ arquivos:
     modificado: '2026-08-27T17:49:26.428Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1EsPgbNPTsOF23rSMedtLcXurtod4tQf-
     link_visualizacao: https://drive.google.com/file/d/1EsPgbNPTsOF23rSMedtLcXurtod4tQf-/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '1'
+    resumo: 'Apresentação do professor na primeira aula: formação, experiência docente, áreas de atuação, livros e sistemas desenvolvidos, e canais de contato.'
+    topicos:
+    - apresentação do professor
+    - canais de contato
+    secoes:
+    - Jornada Acadêmica
+    - Experiência Docente
+    - Atuação Profissional & Expertise
+    - Produção Autoral & Desenvolvimento de Sistemas
+    - Conecte-se com o Professor
   1xDGyZTUw5RmisYLFGT7x4Sk26KsXqjNm:
     nome: 01-b_Apresentacao_Disciplina.pptx
     tipo: PPTX
@@ -46,11 +29,25 @@ arquivos:
     modificado: '2026-08-27T17:49:50.382Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1xDGyZTUw5RmisYLFGT7x4Sk26KsXqjNm
     link_visualizacao: https://drive.google.com/file/d/1xDGyZTUw5RmisYLFGT7x4Sk26KsXqjNm/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '1'
+    resumo: 'Slides do plano de ensino: ementa, organização em blocos de unidades (fundamentos; funções, semântica e memória; imperativo, OO e concorrência; funcional e lógico), objetivos, conteúdo de cada unidade, avaliação (NF = A1 + A2) e bibliografia.'
+    topicos:
+    - plano de ensino
+    - ementa
+    - unidades
+    - objetivos
+    - avaliação
+    - bibliografia
+    secoes:
+    - Ementa
+    - Como o programa se organiza
+    - Objetivos
+    - Objetivos (atitudes)
+    - Conteúdo
+    - Avaliação
+    - Bibliografia Básica
+    - Bibliografia Complementar
   19tk8wtcHo6M3TV6H583bt3E64wRGFc-o:
     nome: 01-c_Enunciado_Avaliação.pdf
     tipo: PDF
@@ -58,11 +55,32 @@ arquivos:
     modificado: '2026-08-27T17:49:44.356Z'
     link_leitura: https://drive.google.com/uc?export=download&id=19tk8wtcHo6M3TV6H583bt3E64wRGFc-o
     link_visualizacao: https://drive.google.com/file/d/19tk8wtcHo6M3TV6H583bt3E64wRGFc-o/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Enunciado da A2: trabalho em grupo (3,0), seminário (1,0) e prova individual de leitura de código (1,0); temas por paradigma (Funcional F1–F3, Lógico L1–L3, Concorrente C1–C2), ambientes online homologados, regras de uso de IA, o que entregar, análise comparativa obrigatória e rubricas.'
+    topicos:
+    - A2
+    - trabalho em grupo
+    - temas
+    - ambientes online
+    - uso de IA
+    - análise comparativa
+    - rubrica
+    - seminário
+    - prova individual
+    secoes:
+    - 1. Visão geral
+    - 2. O trabalho em grupo
+    - 2.1 Formação dos grupos e atribuição do tema
+    - 2.2 Restrição do laboratório
+    - 2.3 Ambientes online homologados
+    - 2.4 Uso de Inteligência Artificial
+    - 2.5 O que entregar
+    - 2.6 Análise comparativa obrigatória
+    - 2.7 Rubrica do trabalho
+    - 3. O seminário
+    - 4. Prova individual
+    - 5. Regras gerais e prazos
   1pRiVcTKTMVeh6JL5tr69qSRxAfn5xs2R:
     nome: 01-d_Avaliacao.pptx
     tipo: PPTX
@@ -70,35 +88,31 @@ arquivos:
     modificado: '2026-08-27T17:49:40.057Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1pRiVcTKTMVeh6JL5tr69qSRxAfn5xs2R
     link_visualizacao: https://drive.google.com/file/d/1pRiVcTKTMVeh6JL5tr69qSRxAfn5xs2R/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n:
-    nome: 01-e_Relatorio_Grupos_4M_Paradigmas.pdf
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-27T17:49:35.830Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n
-    link_visualizacao: https://drive.google.com/file/d/1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO:
-    nome: 01-f_Esqueleto_do_readme_a2.md
-    tipo: Markdown
-    caminho: ''
-    modificado: '2026-09-22T13:43:31.458Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO
-    link_visualizacao: https://drive.google.com/file/d/1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Slides com o mesmo conteúdo do enunciado 01-c: composição da A2 (3,0 + 1,0 + 1,0), temas e linguagens, ambientes online, uso de IA com log e defesa ao vivo, entrega, análise comparativa, rubricas do trabalho e do seminário, prova individual e regras gerais.'
+    topicos:
+    - A2
+    - temas
+    - ambientes online
+    - uso de IA
+    - rubrica
+    - seminário
+    - prova individual
+    secoes:
+    - Como funciona a A2
+    - Composição da nota
+    - O trabalho em grupo
+    - Ferramentas autorizadas
+    - Temas disponíveis
+    - Uso de Inteligência Artificial
+    - O que entregar
+    - Análise comparativa obrigatória
+    - Rubrica do trabalho
+    - O Seminário
+    - Rubrica do seminário
+    - Prova individual
+    - Regras gerais e prazos
   1dc2m7MNSxahS4gr_lp_h6TGfEsg6qJLC:
     nome: 02-01_História das Linguagens de Programação.pdf
     tipo: PDF
@@ -106,11 +120,20 @@ arquivos:
     modificado: '2026-08-12T12:47:56.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1dc2m7MNSxahS4gr_lp_h6TGfEsg6qJLC
     link_visualizacao: https://drive.google.com/file/d/1dc2m7MNSxahS4gr_lp_h6TGfEsg6qJLC/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Texto longo sobre a evolução das linguagens: do ENIAC e da programação por configuração ao programa armazenado, Assembly e autocódigos, linguagens de alto nível, orientação a objetos, web e a computação heterogênea com IA.'
+    topicos:
+    - história das linguagens
+    - ENIAC
+    - Assembly
+    - alto nível
+    - orientação a objetos
+    - IA
+    secoes:
+    - A Era da Computação Física e os Limites do Hardware
+    - A Metamorfose do ENIAC e a Arquitetura de Programa Armazenado
+    - 'O Nascimento da Abstração Simbólica: Assembly e os Autocódigos'
   1xVzr1sJGZRT1kklBV4e7b4pjemchThUe:
     nome: 02-02_Cronologia da Evolução das Linguagens de Programação_ Dos Algoritmos Mecânicos às Fronteiras da IA.pdf
     tipo: PDF
@@ -118,11 +141,24 @@ arquivos:
     modificado: '2026-08-12T12:48:17.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1xVzr1sJGZRT1kklBV4e7b4pjemchThUe
     link_visualizacao: https://drive.google.com/file/d/1xVzr1sJGZRT1kklBV4e7b4pjemchThUe/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: Cronologia das linguagens em sete períodos, das raízes mecânicas do século XIX às linguagens de concorrência, IA e computação quântica, com o foco de cada linguagem marcante.
+    topicos:
+    - cronologia
+    - Fortran
+    - COBOL
+    - C
+    - orientação a objetos
+    - PHP e JavaScript
+    secoes:
+    - '1. Prólogo: As Raízes da Lógica Programável'
+    - 2. O Big Bang das Linguagens de Alto Nível (1950 - 1960)
+    - 3. A Era da Estrutura e do Uso Geral (1970 - 1979)
+    - 4. A Revolução da Orientação a Objetos (1980 - 1994)
+    - '5. O Nascimento da Web Interativa: PHP e JavaScript (1995 - 2000)'
+    - '6. Modernidade e Além: Concorrência, IA e Quântica'
+    - 7. Conclusão
   1Xk3aRC3XCFNqehVq-QphJHHz4oLRC6tn:
     nome: 02-03_Relatório Técnico_ Evolução e Impacto das Linguagens de Programação.pdf
     tipo: PDF
@@ -130,11 +166,22 @@ arquivos:
     modificado: '2026-08-12T12:50:48.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1Xk3aRC3XCFNqehVq-QphJHHz4oLRC6tn
     link_visualizacao: https://drive.google.com/file/d/1Xk3aRC3XCFNqehVq-QphJHHz4oLRC6tn/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Relatório sobre por que estudar a história das linguagens: conceitos (alto nível, OO, máquina virtual, scripts no servidor), evolução dos paradigmas, linguagens no mercado atual, erros frequentes e glossário.'
+    topicos:
+    - história das linguagens
+    - paradigmas
+    - máquina virtual
+    - mercado
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Paradigmas e a Evolução Cronológica'
+    - '4. Aplicação: Linguagens no Cenário Profissional Moderno'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   10YyivcP2oDQ6yjarYMuh0_XvsbOD_ebZ:
     nome: 02-04_Historia_das_Linguagens_de_Programacao.pdf
     tipo: PDF
@@ -142,11 +189,22 @@ arquivos:
     modificado: '2026-08-12T12:53:07.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=10YyivcP2oDQ6yjarYMuh0_XvsbOD_ebZ
     link_visualizacao: https://drive.google.com/file/d/10YyivcP2oDQ6yjarYMuh0_XvsbOD_ebZ/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Slides de história das linguagens: era física (ENIAC), da mnemônica ao compilador, as quatro linguagens fundacionais, a chegada dos objetos, a web e o paradoxo do Python com o retorno ao hardware.'
+    topicos:
+    - história das linguagens
+    - compilador
+    - linguagens fundacionais
+    - orientação a objetos
+    - web
+    secoes:
+    - 'Parte 1: Antes do código'
+    - Da mnemônica ao compilador
+    - O quarteto fundacional
+    - Objetos entram em cena
+    - Democratização e a Web
+    - O paradoxo do Python e o retorno ao hardware
   1hPPEJBU0AEctJfKz-VhGvLSCNpSPldaL:
     nome: 02-05_Futuro das Linguagens de Programação.pdf
     tipo: PDF
@@ -154,11 +212,19 @@ arquivos:
     modificado: '2026-08-12T12:52:14.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1hPPEJBU0AEctJfKz-VhGvLSCNpSPldaL
     link_visualizacao: https://drive.google.com/file/d/1hPPEJBU0AEctJfKz-VhGvLSCNpSPldaL/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Texto sobre o papel das linguagens na era da IA: determinismo, pipeline de compilação, otimização como problema difícil e os riscos de gerar código binário diretamente por IA.'
+    topicos:
+    - futuro das linguagens
+    - IA generativa
+    - determinismo
+    - compilação
+    secoes:
+    - A Função Fundamental das Linguagens de Programação e a Supremacia do Determinismo
+    - A Arquitetura do Pipeline de Compilação
+    - A Complexidade NP-Completa e a Programação por Restrições
+    - A Promessa e o Perigo Catastrófico da Geração Direta de Código Binário por IA
   1q8fAGTfwTqcaOoqncmRZ4XL8FDeGDxYo:
     nome: 02-06_Tendências Futuras nas Linguagens de Programação_ Da Abstração de Alto Nível à Computação Quântica e IA.pdf
     tipo: PDF
@@ -166,11 +232,18 @@ arquivos:
     modificado: '2026-08-12T12:53:40.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1q8fAGTfwTqcaOoqncmRZ4XL8FDeGDxYo
     link_visualizacao: https://drive.google.com/file/d/1q8fAGTfwTqcaOoqncmRZ4XL8FDeGDxYo/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Texto sobre tendências: linguagem natural e IA no desenvolvimento, vibe coding e desenvolvimento orientado a especificações, linguagens quânticas (Qiskit, Q#) e a articulação entre IA, infraestrutura e linguagens.'
+    topicos:
+    - tendências
+    - IA
+    - spec-driven development
+    - computação quântica
+    secoes:
+    - '1. Contextualização: A Evolução das Camadas de Abstração'
+    - 2. Conceitos Fundamentais
+    - 'Desenvolvimento: A Articulação entre IA, Infraestrutura e Linguagens'
   1hKW-0liLkjB7xA-cnpx_JZ0btP-599t4:
     nome: 02-07_Futuro_das_Linguagens_de_Programacao.pdf
     tipo: PDF
@@ -178,47 +251,19 @@ arquivos:
     modificado: '2026-08-12T12:54:54.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1hKW-0liLkjB7xA-cnpx_JZ0btP-599t4
     link_visualizacao: https://drive.google.com/file/d/1hKW-0liLkjB7xA-cnpx_JZ0btP-599t4/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7:
-    nome: 02-08_Engenharia de Execução_ Compiladores, Interpretadores e Máquinas Virtuais.pdf
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-12T12:55:42.000Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7
-    link_visualizacao: https://drive.google.com/file/d/1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR:
-    nome: 02-09_Compiladores Interpretadores e Máquinas Virtuais.pdf
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-12T12:56:11.000Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR
-    link_visualizacao: https://drive.google.com/file/d/1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
-  1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu:
-    nome: 02-10_Compiladores_Interpretadores_e_Maquinas_Virtuais.pdf
-    tipo: PDF
-    caminho: ''
-    modificado: '2026-08-12T12:56:58.000Z'
-    link_leitura: https://drive.google.com/uc?export=download&id=1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu
-    link_visualizacao: https://drive.google.com/file/d/1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '2'
+    resumo: 'Slides sobre o futuro das linguagens: se a IA pode eliminar o código, onde ela já vence, se a codificação está morta, o que muda até 2026 e o futuro do desenvolvedor.'
+    topicos:
+    - futuro das linguagens
+    - IA generativa
+    - papel do desenvolvedor
+    secoes:
+    - 'Parte 1: Pode a IA eliminar o código?'
+    - Onde a IA já vence
+    - A codificação está morta?
+    - O que muda de fato até 2026
+    - O futuro do desenvolvedor
   1plhL4i2RBm1mD_M97sWT_OB9Cnka1Mxe:
     nome: 02-11_Avaliação de Linguagens de Programação.pdf
     tipo: PDF
@@ -226,11 +271,21 @@ arquivos:
     modificado: '2026-08-12T12:57:36.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1plhL4i2RBm1mD_M97sWT_OB9Cnka1Mxe
     link_visualizacao: https://drive.google.com/file/d/1plhL4i2RBm1mD_M97sWT_OB9Cnka1Mxe/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Texto longo sobre critérios para avaliar linguagens: o modelo de Sebesta (legibilidade, capacidade de escrita, confiabilidade, custo), a evolução desses critérios e o ecossistema moderno, como o Language Server Protocol.'
+    topicos:
+    - critérios de avaliação
+    - Sebesta
+    - legibilidade
+    - capacidade de escrita
+    - confiabilidade
+    - custo
+    secoes:
+    - O Contexto Histórico e a Evolução dos Paradigmas de Avaliação
+    - O Modelo Clássico de Avaliação de Robert W. Sebesta
+    - Legibilidade (Readability)
+    - Capacidade de Escrita (Writability)
   1nR-Dk6yduc6PoDniEW2Dy09lpUXFdB-6:
     nome: 02-12_Critérios de Avaliação de Linguagens de Programação_ Uma Abordagem Estrutural e Econômica.pdf
     tipo: PDF
@@ -238,11 +293,23 @@ arquivos:
     modificado: '2026-08-12T12:58:00.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1nR-Dk6yduc6PoDniEW2Dy09lpUXFdB-6
     link_visualizacao: https://drive.google.com/file/d/1nR-Dk6yduc6PoDniEW2Dy09lpUXFdB-6/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Texto sobre critérios de avaliação de linguagens: simplicidade, ortogonalidade, abstração, expressividade, verificação de tipos, tempos de vinculação e semântica formal, com análise comparativa e glossário.'
+    topicos:
+    - critérios de avaliação
+    - ortogonalidade
+    - expressividade
+    - verificação de tipos
+    - tempo de vinculação
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Domínios de Avaliação'
+    - '4. Aplicação: Análise Comparativa de Ortogonalidade e Legibilidade'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário de Termos Técnicos
   1--C9-gvXXcAcvJoioIS_vaBU6_hsfLnR:
     nome: 02-13_Criterios_de_Avaliacao_de_Linguagens.pdf
     tipo: PDF
@@ -250,11 +317,22 @@ arquivos:
     modificado: '2026-08-12T12:58:29.000Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1--C9-gvXXcAcvJoioIS_vaBU6_hsfLnR
     link_visualizacao: https://drive.google.com/file/d/1--C9-gvXXcAcvJoioIS_vaBU6_hsfLnR/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Slides sobre critérios de avaliação de linguagens: os quatro pilares de Sebesta, armadilhas de legibilidade, ortogonalidade, tempos de vinculação, semântica formal, o Language Server Protocol e a aplicação dos critérios.'
+    topicos:
+    - critérios de avaliação
+    - Sebesta
+    - ortogonalidade
+    - tempo de vinculação
+    - LSP
+    secoes:
+    - 'Parte 1: O modelo de Sebesta'
+    - Ortogonalidade
+    - Tempos de vinculação
+    - Semântica formal
+    - 'O ecossistema: Language Server Protocol'
+    - Aplicando os critérios
   1zK2f4QJRKUyU_032lcxoJZZRiJ5dcTZ2:
     nome: 03-01_Estrutura das Linguagens.pdf
     tipo: PDF
@@ -262,11 +340,23 @@ arquivos:
     modificado: '2026-08-27T17:50:38.585Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1zK2f4QJRKUyU_032lcxoJZZRiJ5dcTZ2
     link_visualizacao: https://drive.google.com/file/d/1zK2f4QJRKUyU_032lcxoJZZRiJ5dcTZ2/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Texto sobre a estrutura das linguagens: sintaxe e semântica, análise léxica (scanner) e sintática (parser), o pipeline do compilador, AST e tabela de símbolos, com aplicação nos navegadores, erros frequentes e glossário.'
+    topicos:
+    - sintaxe
+    - semântica
+    - análise léxica
+    - análise sintática
+    - AST
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: O Caminho da Tradução Passo a Passo'
+    - '4. Aplicação: A Tecnologia por Trás dos Navegadores'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   1NVbRozguQEfwLiuVeEQEyvnDFrhSxcy1:
     nome: 03-02_Estrutura das Linguagens.pdf
     tipo: PDF
@@ -274,11 +364,91 @@ arquivos:
     modificado: '2026-08-27T17:51:19.256Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1NVbRozguQEfwLiuVeEQEyvnDFrhSxcy1
     link_visualizacao: https://drive.google.com/file/d/1NVbRozguQEfwLiuVeEQEyvnDFrhSxcy1/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '3'
+    resumo: 'Slides com o mesmo tema do texto 03-01: sintaxe e semântica e o pipeline de análise (scanner, parser e análise semântica).'
+    topicos:
+    - sintaxe
+    - semântica
+    - análise léxica
+    - análise sintática
+    - análise semântica
+    secoes:
+    - 'Parte 1: Sintaxe e Semântica'
+    - 'Parte 2: O Pipeline de Análise'
+    - 'Análise Léxica: o Scanner'
+    - 'Análise Sintática: o Parsing'
+    - Análise Semântica
+  1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7:
+    nome: 02-08_Engenharia de Execução_ Compiladores, Interpretadores e Máquinas Virtuais.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-12T12:55:42.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7
+    link_visualizacao: https://drive.google.com/file/d/1-ILEaSX9WU-bNQDRoVoJ6Zd_ie3otxb7/view
+    status: ok
+    semana: '4'
+    resumo: 'Texto sobre como o código é executado: compilador, interpretador, máquina virtual, bytecode, JIT, AOT e representação intermediária, a arquitetura dos sistemas de execução, estudos de caso, erros frequentes e glossário.'
+    topicos:
+    - compilador
+    - interpretador
+    - máquina virtual
+    - bytecode
+    - JIT
+    - AOT
+    secoes:
+    - 1. Contextualização
+    - '2. Conceitos Fundamentais: Os Pilares da Tradução'
+    - '3. Desenvolvimento: A Arquitetura e Articulação de Sistemas de Execução'
+    - '4. Aplicação: Estudos de Caso e Performance'
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese do Conteúdo
+    - 7. Glossário Técnico
+  1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR:
+    nome: 02-09_Compiladores Interpretadores e Máquinas Virtuais.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-12T12:56:11.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR
+    link_visualizacao: https://drive.google.com/file/d/1-WHG6jGRCI1B8nExL5OMehdU8tyq8ehR/view
+    status: ok
+    semana: '4'
+    resumo: 'Texto longo sobre compiladores, interpretadores e máquinas virtuais: as fases da compilação (léxica, sintática, semântica, otimização, geração de código), AST, tabela de símbolos e as estratégias de execução.'
+    topicos:
+    - compilador
+    - fases da compilação
+    - AST
+    - tabela de símbolos
+    - interpretador
+    - máquina virtual
+    secoes:
+    - Fundamentos da Compilação e a Transformação Estrutural de Código
+  1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu:
+    nome: 02-10_Compiladores_Interpretadores_e_Maquinas_Virtuais.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-12T12:56:58.000Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu
+    link_visualizacao: https://drive.google.com/file/d/1N_Vzb7aieDL4H9fMD61dVQNwzyzs_2Uu/view
+    status: ok
+    semana: '4'
+    resumo: 'Slides sobre compiladores, interpretadores e VMs: pipeline de seis fases, AST e tabela de símbolos, custo da interpretação, VM de pilha ou de registradores, JIT, o motor V8, AOT e WebAssembly.'
+    topicos:
+    - compilador
+    - interpretador
+    - máquina virtual
+    - JIT
+    - V8
+    - AOT
+    - WebAssembly
+    secoes:
+    - 'Parte 1: Como um compilador traduz código'
+    - 'Interpretar: execução imediata, com um preço'
+    - 'Pilha ou registrador: a arquitetura da VM'
+    - 'JIT: o meio-termo em tempo real'
+    - 'Estudo de caso: o motor V8'
+    - AOT moderno
+    - WebAssembly e o Cranelift
   1XG06LEqljaVrWNBK8pQnTHzRhB4RSCeQ:
     nome: '04-01_Declarações: Nomes, Vinculações, Escopos e Tipos de Dados.pdf'
     tipo: PDF
@@ -286,11 +456,27 @@ arquivos:
     modificado: '2026-08-27T17:51:51.059Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1XG06LEqljaVrWNBK8pQnTHzRhB4RSCeQ
     link_visualizacao: https://drive.google.com/file/d/1XG06LEqljaVrWNBK8pQnTHzRhB4RSCeQ/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Texto sobre declarações: nomes, vinculação e tempo de vinculação, tabela de símbolos, tipagem estática e dinâmica, escopo e visibilidade e alocação de variáveis, com erros frequentes e glossário.'
+    topicos:
+    - nomes
+    - vinculação
+    - escopo
+    - tipos de dados
+    - tipagem estática e dinâmica
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - 3.1 O Tempo de Vinculação (Binding Time)
+    - 3.2 A Tabela de Símbolos e a Árvore de Sintaxe (AST)
+    - '3.3 Sistemas de Tipagem: Estática vs. Dinâmica'
+    - 3.4 Escopo e Visibilidade
+    - 3.5 Alocação de Memória e Variáveis
+    - 4. Aplicação
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   1pO8Uz8gCowWoghEwmBZu7t8oR5M_8KVJ:
     nome: '04-02_Declarações: Nomes, Vinculações, Escopos e Tipos de Dados.pdf'
     tipo: PDF
@@ -298,11 +484,21 @@ arquivos:
     modificado: '2026-08-27T17:51:57.279Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1pO8Uz8gCowWoghEwmBZu7t8oR5M_8KVJ
     link_visualizacao: https://drive.google.com/file/d/1pO8Uz8gCowWoghEwmBZu7t8oR5M_8KVJ/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '4'
+    resumo: 'Slides com o mesmo tema do texto 04-01: a equação de Wirth, atributos de uma variável, categorias de tempo de vinculação, aliasing, escopo e tipagem.'
+    topicos:
+    - nomes
+    - vinculação
+    - aliasing
+    - escopo
+    - tipagem
+    secoes:
+    - A Equação de Wirth
+    - Nomes e Vinculações
+    - Atributos Fundamentais de uma Variável
+    - Categorias de Binding Time
+    - O Conceito de Aliasing
   1jT2toeD3X_R8k9QCo97sc0bZjC_yKP9n:
     nome: 05-01_Funcoes_chamada_retorno_passagem_parametro_recursao.pdf
     tipo: PDF
@@ -310,11 +506,23 @@ arquivos:
     modificado: '2026-08-31T17:29:13.865Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1jT2toeD3X_R8k9QCo97sc0bZjC_yKP9n
     link_visualizacao: https://drive.google.com/file/d/1jT2toeD3X_R8k9QCo97sc0bZjC_yKP9n/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Texto sobre funções: subprogramas, chamada e retorno, passagem de parâmetros por valor e por referência, recursão e quadro de ativação na pilha, com exemplos, erros frequentes e glossário.'
+    topicos:
+    - funções
+    - chamada e retorno
+    - passagem de parâmetros
+    - recursão
+    - pilha de ativação
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: O Funcionamento da Recursão'
+    - 4. Aplicação Prática
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   1rF3VZZBY3IMAdcXerVmVOZtXTA4Dgj55:
     nome: 05-02_Funcoes_chamada_retorno_passagem_parametro_recursao.pdf
     tipo: PDF
@@ -322,11 +530,20 @@ arquivos:
     modificado: '2026-09-01T12:48:47.927Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1rF3VZZBY3IMAdcXerVmVOZtXTA4Dgj55
     link_visualizacao: https://drive.google.com/file/d/1rF3VZZBY3IMAdcXerVmVOZtXTA4Dgj55/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Slides com o mesmo tema do texto 05-01: questões de projeto de subprogramas, métodos de passagem de parâmetros, quadro de ativação e recursão como forma de repetição nas linguagens funcionais.'
+    topicos:
+    - funções
+    - passagem de parâmetros
+    - quadro de ativação
+    - recursão
+    secoes:
+    - Subprogramas e Parâmetros
+    - Desafios no Projeto de Funções
+    - O Quadro de Ativação
+    - Recursividade e Repetição
+    - Resolução de Problemas
   1Cpl5ZyPzPtWQQsHsVvUNq9Yy9NBPRZ8J:
     nome: 05-03_dinamicas-funcoes-recursao.pdf
     tipo: PDF
@@ -334,11 +551,18 @@ arquivos:
     modificado: '2026-09-01T14:03:51.037Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1Cpl5ZyPzPtWQQsHsVvUNq9Yy9NBPRZ8J
     link_visualizacao: https://drive.google.com/file/d/1Cpl5ZyPzPtWQQsHsVvUNq9Yy9NBPRZ8J/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '5'
+    resumo: 'Duas dinâmicas em papel para a aula de funções: rastrear a pilha de fatorial(7) e montar a árvore de chamadas de fib(5), mostrando a recursão múltipla.'
+    topicos:
+    - recursão
+    - pilha de chamadas
+    - fatorial
+    - Fibonacci
+    - dinâmica
+    secoes:
+    - 'Dinâmica 1 — Rastreamento manual da pilha: fatorial(7)'
+    - 'Dinâmica 2 — Recursão múltipla sem eliminação de cauda: fib(5)'
   1LMsRiiAvSS9ZUzegclmErYp5GxrblJnf:
     nome: 06-01_dinamica-analise-semantica.pdf
     tipo: PDF
@@ -346,11 +570,22 @@ arquivos:
     modificado: '2026-09-06T21:57:52.881Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1LMsRiiAvSS9ZUzegclmErYp5GxrblJnf
     link_visualizacao: https://drive.google.com/file/d/1LMsRiiAvSS9ZUzegclmErYp5GxrblJnf/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '6'
+    resumo: 'Dinâmica de análise semântica com uma mini-linguagem em português: montar a tabela de símbolos, checar tipos de expressões, atribuições com promoção ou erro, tipo das condições, caçar erros e comparar com um compilador real.'
+    topicos:
+    - análise semântica
+    - tabela de símbolos
+    - checagem de tipos
+    - atribuição
+    - controle
+    secoes:
+    - Fase 1 — Construir a tabela de símbolos
+    - Fase 2 — Checar tipos de expressão
+    - 'Fase 3 — Atribuições: promoção × erro'
+    - 'Fase 4 — Controle: a condição também tem tipo'
+    - Fase 5 — Caça ao erro
+    - Fase 6 — Confronto com o compilador de verdade
   1M6Kq4AywxLFppMvhk_uoE_sMzWHr-mdh:
     nome: 07-01_Fundamentos_Gerenciamento_Memória_Paradigmas_Teoria_Tipos.pdf
     tipo: PDF
@@ -358,11 +593,23 @@ arquivos:
     modificado: '2026-09-13T17:53:41.055Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1M6Kq4AywxLFppMvhk_uoE_sMzWHr-mdh
     link_visualizacao: https://drive.google.com/file/d/1M6Kq4AywxLFppMvhk_uoE_sMzWHr-mdh/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '7'
+    resumo: Texto sobre heap, matrizes dinâmicas em C (três formas de alocar), coleta de lixo, paradigma imperativo e teoria de tipos, com erros frequentes como vazamento de memória e ponteiros pendentes.
+    topicos:
+    - heap
+    - matrizes dinâmicas
+    - coleta de lixo
+    - paradigma imperativo
+    - teoria de tipos
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos fundamentais
+    - 3. Desenvolvimento
+    - 4. Aplicação
+    - 5. Erros e confusões frequentes
+    - 6. Síntese
+    - 7. Glossário
   1iw_LokddnZG3KjKz7IzG1ha8_snl3ZYH:
     nome: 08-01_Paradigma OO.pdf
     tipo: PDF
@@ -370,11 +617,25 @@ arquivos:
     modificado: '2026-09-19T20:30:41.228Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1iw_LokddnZG3KjKz7IzG1ha8_snl3ZYH
     link_visualizacao: https://drive.google.com/file/d/1iw_LokddnZG3KjKz7IzG1ha8_snl3ZYH/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '8'
+    resumo: 'Texto sobre orientação a objetos em Java: classe, objeto e instância, estado, comportamento e mensagens, construtores e inicialização, herança entre classes base e derivadas, uso no mercado e erros frequentes.'
+    topicos:
+    - orientação a objetos
+    - classe
+    - objeto
+    - mensagens
+    - construtores
+    - herança
+    - Java
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: A Articulação dos Conceitos'
+    - 4. Aplicação Prática no Mercado de Trabalho
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   1XUt71no4rfuLCeL-8ss23IaKyzO4QGBO:
     nome: 08-02_Paradigma OO.pdf
     tipo: PDF
@@ -382,11 +643,21 @@ arquivos:
     modificado: '2026-09-19T20:29:36.639Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1XUt71no4rfuLCeL-8ss23IaKyzO4QGBO
     link_visualizacao: https://drive.google.com/file/d/1XUt71no4rfuLCeL-8ss23IaKyzO4QGBO/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '8'
+    resumo: 'Slides com o mesmo tema do texto 08-01: do imperativo ao OO, objetos, classes e mensagens, inicialização e construtores, classes base e derivadas, com exemplos em Java.'
+    topicos:
+    - orientação a objetos
+    - classe
+    - objeto
+    - construtores
+    - herança
+    - Java
+    secoes:
+    - Do imperativo ao OO
+    - 'Parte 1: Objetos, Classes e Mensagens'
+    - Inicialização e Construtores
+    - Classes Base e Derivadas
   1kGuhbGbEUJD1d8w6kXKZ1QDiJuv5fGMu:
     nome: 09-01_Programação Concorrente.pdf
     tipo: PDF
@@ -394,11 +665,26 @@ arquivos:
     modificado: '2026-10-04T20:40:48.782Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1kGuhbGbEUJD1d8w6kXKZ1QDiJuv5fGMu
     link_visualizacao: https://drive.google.com/file/d/1kGuhbGbEUJD1d8w6kXKZ1QDiJuv5fGMu/view
-    status: pendente
-    semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    status: ok
+    semana: '10'
+    resumo: 'Texto sobre programação concorrente: concorrência e paralelismo, goroutines e threads, channels, mutex e WaitGroup, o GIL do Python, aplicações no mercado e erros frequentes.'
+    topicos:
+    - concorrência
+    - paralelismo
+    - goroutines
+    - channels
+    - mutex
+    - GIL
+    - Go
+    - Python
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos Fundamentais
+    - '3. Desenvolvimento: Articulação dos Conceitos e Fluxo de Execução'
+    - 4. Aplicação Prática no Mercado Atual
+    - 5. Erros e Confusões Frequentes
+    - 6. Síntese
+    - 7. Glossário
   12MrkA40XV6lTr6NUIpwsaYIPBLI7XdRz:
     nome: 09-02_Programação Concorrente.pdf
     tipo: PDF
@@ -406,8 +692,96 @@ arquivos:
     modificado: '2026-10-04T20:45:40.996Z'
     link_leitura: https://drive.google.com/uc?export=download&id=12MrkA40XV6lTr6NUIpwsaYIPBLI7XdRz
     link_visualizacao: https://drive.google.com/file/d/12MrkA40XV6lTr6NUIpwsaYIPBLI7XdRz/view
-    status: pendente
+    status: ok
+    semana: '10'
+    resumo: 'Slides com o mesmo tema do texto 09-01: concorrência não é paralelismo, memória compartilhada e troca de mensagens, condição de corrida e deadlock, e exemplos em Go e Python.'
+    topicos:
+    - concorrência
+    - paralelismo
+    - condição de corrida
+    - deadlock
+    - Go
+    - Python
+    secoes:
+    - 'Parte 1: Concorrência e Sincronização'
+    - Concorrência não é paralelismo
+    - Dois modelos de troca de dados
+    - Os dois defeitos clássicos
+    - Concorrência em Go
+    - Concorrência em Python
+  1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE:
+    nome: 00_Links importantes
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-10-04T20:58:22.530Z'
+    link_leitura: https://docs.google.com/document/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/view
+    status: ok
     semana: ''
-    resumo: ''
-    topicos: []
-    secoes: []
+    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.'
+    topicos: &id001
+    - links da disciplina
+    - datas de avaliação
+    - seminários
+    - prova da A2
+    - A1
+    - AF
+    secoes: &id002
+    - Links
+    - Datas
+  1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz:
+    nome: 00_Links importantes.docx
+    tipo: DOCX
+    caminho: ''
+    modificado: '2026-10-04T20:57:55.018Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz
+    link_visualizacao: https://drive.google.com/file/d/1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz/view
+    status: ok
+    semana: ''
+    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.'
+    topicos: *id001
+    secoes: *id002
+  1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n:
+    nome: 01-e_Relatorio_Grupos_4M_Paradigmas.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-08-27T17:49:35.830Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n
+    link_visualizacao: https://drive.google.com/file/d/1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n/view
+    status: ok
+    semana: ''
+    resumo: 'Relatório da formação dos grupos da A2: oito grupos, um tema cada, datas dos relatórios (07/10, 21/10 e 04/11) e dos seminários (14/10, 28/10 e 11/11) por paradigma, e a composição de cada grupo.'
+    topicos:
+    - grupos
+    - temas
+    - datas dos relatórios
+    - datas dos seminários
+    secoes:
+    - 1. Panorama
+    - 2. Calendário
+    - 2.1 Seminários
+    - 2.2 Relatórios
+    - 3. Grupos
+  1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO:
+    nome: 01-f_Esqueleto_do_readme_a2.md
+    tipo: Markdown
+    caminho: ''
+    modificado: '2026-09-22T13:43:31.458Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO
+    link_visualizacao: https://drive.google.com/file/d/1p2eGeXFN5RkRM4a2rRzAaA7liQ6I7_MO/view
+    status: ok
+    semana: ''
+    resumo: 'Esqueleto do README do repositório do grupo na A2: integrantes, definição do tema, execução no ambiente online com permalink e exemplo de entrada e saída, relatório técnico (descrição da solução e análise comparativa em sintaxe, semântica, memória e trade-offs) e log de uso de IA. A entrega é feita pelo link do repositório.'
+    topicos:
+    - A2
+    - README
+    - permalink
+    - análise comparativa
+    - log de uso de IA
+    secoes:
+    - Integrantes
+    - Definição do Tema
+    - Execução do Código
+    - Relatório Técnico
+    - Análise Comparativa
+    - Log de Uso de Inteligência Artificial (IA)
