@@ -144,7 +144,7 @@ licenças e materiais de terceiros. Depois crie a release v1.0 com gh, anexando
 os arquivos de dist/.
 ```
 
-- [ ] Release `v1.0` publicada
+- [x] Release `v1.0` publicada (06/10/2026)
 - [ ] Comunicado aos alunos (WhatsApp Community) com link do README
 
 **Commit/tag:** `docs: guias de instalação` · `v1.0`
