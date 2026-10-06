@@ -205,14 +205,25 @@ def baixar_pendentes(dados, chave):
         if item['status'] != 'pendente':
             continue
         mime = next((m for m, g in GOOGLE.items() if g[0] == item['tipo']), None)
-        if mime:
-            _, _, exportar, ext = GOOGLE[mime]
-            conteudo = pedir(f'files/{id_}/export', {'mimeType': exportar}, chave, bruto=True)
-            nome = os.path.splitext(item['nome'])[0] + ext
-        else:
-            conteudo = pedir(f'files/{id_}', {'alt': 'media'}, chave, bruto=True)
-            nome = item['nome']
+        nome = os.path.splitext(item['nome'])[0] + GOOGLE[mime][3] if mime else item['nome']
         arq = os.path.join(destino, f"{id_}__{re.sub(r'[/\\]', '_', nome)}")
+        if os.path.exists(arq):
+            caminhos.append(os.path.relpath(arq, RAIZ))
+            continue
+        # Se a API recusar (ex.: limite de requisições), tenta o link de leitura
+        # público; se ele também falhar, o arquivo é pulado sem interromper os demais.
+        try:
+            if mime:
+                conteudo = pedir(f'files/{id_}/export', {'mimeType': GOOGLE[mime][2]}, chave, bruto=True)
+            else:
+                conteudo = pedir(f'files/{id_}', {'alt': 'media'}, chave, bruto=True)
+        except SystemExit as erro:
+            try:
+                with urllib.request.urlopen(item['link_leitura']) as resp:
+                    conteudo = resp.read()
+            except urllib.error.URLError as erro_link:
+                print(f"  não baixado: {item['nome']} — {erro}; link de leitura: {erro_link}")
+                continue
         with open(arq, 'wb') as fh:
             fh.write(conteudo)
         caminhos.append(os.path.relpath(arq, RAIZ))
