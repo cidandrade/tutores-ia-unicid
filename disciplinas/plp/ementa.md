@@ -35,5 +35,5 @@ A1 em 25/11 e AF em 09/12. Sem aula em 30/09 (WECTI) e 02/12. Datas: 📚 `00_Li
 
 **Funcional e lógico (XI e XII):** expressões, funções, tipos e bases matemáticas, expressões simbólicas e listas; programação lógica, aplicação em IA e sentenças lógicas. O material dessas unidades ainda não está no índice: explique pela bibliografia (Sebesta) e avise o aluno.
 
-A prova individual da A2 é de leitura de código em Haskell, Prolog e Go (escopo, passagem de parâmetros, forma de avaliação, resultado previsto); nos simulados da A2, use trechos curtos nessas linguagens. Nos simulados da A1, cubra os conceitos das Unidades II a X.
+A prova individual da A2 é de leitura de código em Haskell, Prolog e Go (escopo, passagem de parâmetros, forma de avaliação, resultado previsto). Nos simulados da A1, cubra os conceitos das Unidades II a X.
 <!-- /só-skill -->

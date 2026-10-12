@@ -1,6 +1,6 @@
 # Tutores IA UNICID
 
-Tutores virtuais das disciplinas do **Prof. Cid R. Andrade (UNICID)**, no formato aberto **Agent Skills**: funcionam no **Claude**, no **ChatGPT**, no **Gemini** e em outras IAs.
+Tutores virtuais das disciplinas do **Prof. Cid R. Andrade (UNICID)**, no formato aberto **Agent Skills**: funcionam no **Claude**, no **ChatGPT**, no **Gemini**, no **Manus** e em outras IAs.
 
 ## O que é
 
@@ -8,7 +8,7 @@ Cada tutor é um monitor virtual da disciplina que:
 
 - ajuda você a entender o conteúdo pelo método socrático (pergunta, guia e só depois explica);
 - consulta o material oficial da disciplina e cita documento e seção;
-- gera simulados no formato das avaliações (A1, A2 e AF);
+- gera simulados da A1 (prova regimental);
 - explica a regra de aprovação e calcula quanto você precisa tirar;
 - **não** resolve trabalhos avaliativos.
 

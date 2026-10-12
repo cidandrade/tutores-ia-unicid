@@ -128,11 +128,13 @@ Ordem das avaliações: **A2 primeiro, depois A1**.
 
 ## D13. Simulados
 
+> Desde a v1.1 (12/10/2026), o tutor só gera simulados da **A1 (prova regimental)**. Pedidos de simulado da A2 ou da AF: o tutor explica e oferece um simulado da A1 ou ajuda com os conceitos.
+
 | Avaliação | Formato | Status |
 |---|---|---|
-| A1 | 8 questões de múltipla escolha + 2 ou 3 dissertativas, estilo ENADE | Definido |
-| A2 | Específico por disciplina (`disciplinas/<sigla>/avaliacao-a2.md`) | Pendente (P3) |
-| AF | Em elaboração | Enquanto indefinido: tutor informa que o formato está em definição e oferece simulado no formato A1 |
+| A1 (regimental) | 8 questões de múltipla escolha + 2 ou 3 dissertativas, estilo ENADE | Definido |
+| A2 | — | Sem simulado (decisão de 12/10/2026) |
+| AF | — | Sem simulado (decisão de 12/10/2026) |
 
 - Simulados trazem gabarito comentado **só depois** que o aluno responder.
 
@@ -188,7 +190,7 @@ tutores-ia-unicid/
 | ~~P1~~ | ~~ID da pasta de DFW~~ — resolvida: `1csuG61YR6Ue2zVjk5Qcw1In7Dj4I1f2t` (Arquivo_DFW; a outra opção não é pública) | — |
 | ~~P2~~ | ~~Nota máxima de A2, A1 e AF~~ — resolvida: 5,0 cada | — |
 | P3 | Formato e enunciados da A2 de cada disciplina | `avaliacao-a2.md` de cada disciplina |
-| P4 | Formato da AF | Simulado de AF |
+| ~~P4~~ | ~~Formato da AF~~ — resolvida: sem simulado de AF (v1.1) | — |
 | P5 | Ementa de cada disciplina | `ementa.md` |
 | P6 | Publicar Gems/GPTs prontos ou só instruções para os alunos colarem | `docs/` e comunicado |
 | P7 | Confirmar nome do repositório | Fase 0 |
