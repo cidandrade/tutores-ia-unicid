@@ -145,7 +145,8 @@ os arquivos de dist/.
 ```
 
 - [x] Release `v1.0` publicada (06/10/2026)
-- [ ] Comunicado aos alunos (WhatsApp Community) com link do README
+- [x] Release `v1.1` publicada (12/10/2026): simulados só da A1 (regimental)
+- [x] Comunicado aos alunos (WhatsApp Community) com link do README (12/10/2026)
 
 **Commit/tag:** `docs: guias de instalação` · `v1.0`
 
