@@ -1,6 +1,6 @@
 # Índice do material: Estruturas de Dados II
 
-> Atualizado em 2026-10-06. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
+> Atualizado em 2026-10-12. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
 ## Semana 1
 
@@ -460,6 +460,26 @@
 - **Seções:** A Pergunta da Aula; O Gargalo; Interface de Dicionário; Modelo DAM; Por que não uma BST; Parte 1: A estrutura
 - **Leitura:** https://drive.google.com/uc?export=download&id=1oOHtybdiMnKFkjA00dpHCdygpoUQzmpK
 - **Visualizar:** https://drive.google.com/file/d/1oOHtybdiMnKFkjA00dpHCdygpoUQzmpK/view
+
+## Semana 12
+
+### 09-03_Quadro comparativo das árvores.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Relatório comparativo das estruturas de busca: complexidade e busca linear × binária, BST, AVL, 2-3 e 2-3-4, rubro-negra, B, B+ e B* em memória secundária e splay, fechando com um quadro geral de nó, balanceamento, altura, custos e uso típico de cada árvore.
+- **Tópicos:** quadro comparativo; Big O; BST; AVL; 2-3 e 2-3-4; rubro-negra; árvore B, B+ e B*; splay; memória secundária
+- **Seções:** Contextualização; Conceitos Fundamentais; Busca Linear vs. Busca Binária em Vetores; Árvores AVL (Adelson-Velsky e Landis); Árvores 2-3 e Árvores 2-3-4; Árvores Rubro-Negras (Red-Black Trees); Árvores B, B+ e B* (Estruturas de Memória Secundária); Árvores Splay (Auto-Ajustáveis); Quadro Comparativo Geral
+- **Leitura:** https://drive.google.com/uc?export=download&id=17Q6TqwXtB2F9TB1rEzD4JT__p6OeTt9w
+- **Visualizar:** https://drive.google.com/file/d/17Q6TqwXtB2F9TB1rEzD4JT__p6OeTt9w/view
+
+### 09-04_Quadro comparativo das árvores.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Slides que comparam as árvores lado a lado por quatro critérios (estrutura do nó, regra de balanceamento, altura no pior caso e onde vivem): binária, BST, AVL, rubro-negra, 2-3, 2-3-4, B, B+ e B*, com quadros-resumo, aplicações reais e critérios de escolha entre RAM e disco.
+- **Tópicos:** quadro comparativo; AVL × rubro-negra; 2-3 e 2-3-4; árvore B, B+ e B*; altura no pior caso; RAM × disco; critérios de escolha
+- **Seções:** Quatro critérios de comparação; Parte 1 — Árvores binárias em memória principal; AVL × Rubro-Negra; Parte 2 — A família B em memória secundária; Quadro 1 — árvores binárias; Quadro 2 — árvores multivias; Onde cada uma aparece; Critérios de escolha
+- **Leitura:** https://drive.google.com/uc?export=download&id=1fkQF5rsQuR05WHGgh2Y1EwHjkroyYSvw
+- **Visualizar:** https://drive.google.com/file/d/1fkQF5rsQuR05WHGgh2Y1EwHjkroyYSvw/view
 
 ## Sem semana definida
 

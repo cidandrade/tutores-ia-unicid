@@ -1,6 +1,6 @@
 # Índice do material: Design Profissional
 
-> Atualizado em 2026-10-05. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
+> Atualizado em 2026-10-12. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
 ## Semana 1
 

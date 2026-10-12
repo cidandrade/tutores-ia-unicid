@@ -1,7 +1,7 @@
 disciplina: Desenvolvimento Front-End para Web
 sigla: dfw
 pasta_drive: 1csuG61YR6Ue2zVjk5Qcw1In7Dj4I1f2t
-atualizado_em: '2026-10-05'
+atualizado_em: '2026-10-12'
 arquivos:
   11OYv5kQReikNHdioaMyNC7njKnXA5MAk:
     nome: 00-01_Apresentacao_Prof.pdf
@@ -1079,6 +1079,120 @@ arquivos:
     - 'NA PRÁTICA: Um player em quatro passos'
     - Erros frequentes
     - Síntese
+  1GHqAfoQot864wV9UIwxekLUTycFiXY3w:
+    nome: 06-01_integrador.zip
+    tipo: ZIP
+    caminho: ''
+    modificado: '2026-10-09T19:39:00.529Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1GHqAfoQot864wV9UIwxekLUTycFiXY3w
+    link_visualizacao: https://drive.google.com/file/d/1GHqAfoQot864wV9UIwxekLUTycFiXY3w/view
+    status: ok
+    semana: '9'
+    resumo: 'Projeto integrador de exemplo ("Duelo de Sagas"): uma página com HTML semântico, CSS dividido em reset, variáveis, layout e componentes, tabela, cards, vídeo, áudio, iframe, SVG e canvas, e JavaScript comentado para troca de tema, controles de mídia e votação desenhada no canvas.'
+    topicos:
+    - projeto integrador
+    - HTML semântico
+    - variáveis CSS
+    - layout e componentes
+    - multimídia
+    - SVG e canvas
+    - JavaScript e DOM
+    - eventos
+    secoes:
+    - index.html
+    - css/reset.css
+    - css/variaveis.css
+    - css/layout.css
+    - css/componentes.css
+    - js/script.js
+  1YwcFIhI5Rv_seczlC0NakFdmvTbdfacr:
+    nome: 07-01_LocalStorage, SessionStorage e Cookies.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-10-11T19:27:55.119Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=1YwcFIhI5Rv_seczlC0NakFdmvTbdfacr
+    link_visualizacao: https://drive.google.com/file/d/1YwcFIhI5Rv_seczlC0NakFdmvTbdfacr/view
+    status: ok
+    semana: '10'
+    resumo: 'Relatório sobre armazenamento no navegador: LocalStorage (sem expiração), SessionStorage (dura a aba) e cookies (enviados ao servidor, com atributos como expires, max-age, domain, path, Secure, HttpOnly e SameSite), comparação entre os três, usos práticos e erros comuns.'
+    topicos:
+    - LocalStorage
+    - SessionStorage
+    - cookies
+    - atributos de cookie
+    - Web Storage API
+    - segurança e privacidade
+    secoes:
+    - 1. Contextualização
+    - 2. Conceitos fundamentais
+    - '3. Desenvolvimento: como os conceitos se articulam'
+    - 4. Aplicação
+    - 5. Erros e confusões frequentes
+    - 6. Síntese
+    - 7. Glossário
+  17GltqogeaMIOQ_Se-AGLi64J9Z3vrZqs:
+    nome: 07-02_LocalStorage, SessionStorage e Cookies.pdf
+    tipo: PDF
+    caminho: ''
+    modificado: '2026-10-11T19:30:03.423Z'
+    link_leitura: https://drive.google.com/uc?export=download&id=17GltqogeaMIOQ_Se-AGLi64J9Z3vrZqs
+    link_visualizacao: https://drive.google.com/file/d/17GltqogeaMIOQ_Se-AGLi64J9Z3vrZqs/view
+    status: ok
+    semana: '10'
+    resumo: 'Slides da aula sobre guardar estado no navegador: por que o HTTP não tem memória, LocalStorage e SessionStorage (métodos, valores sempre em texto, mesma origem), cookies com document.cookie e seus atributos de tempo, escopo e segurança, comparação entre os três e um exemplo de e-commerce que usa todos.'
+    topicos:
+    - LocalStorage
+    - SessionStorage
+    - cookies
+    - Web Storage API
+    - atributos de cookie
+    - JSON.stringify e JSON.parse
+    secoes:
+    - O problema
+    - Três situações do dia a dia
+    - Parte 1 — Web Storage API
+    - O cofre que não fecha (LocalStorage)
+    - Os quatro métodos
+    - Chave e valor são sempre string
+    - O bloco de rascunho da aba (SessionStorage)
+    - Mesma origem
+    - Parte 2 — Cookies
+    - document.cookie
+    - Quanto tempo e para onde
+    - Os de segurança
+    - Os três lado a lado
+    - Um e-commerce usa os três
+    - Onde a escolha costuma errar
+    - A pergunta que decide
+  1qhgywPpOaITPLnPdvU8dzkBwIwztqhb_AyQfAGn0_zQ:
+    nome: 00-06_Entrega2.md
+    tipo: Google Docs
+    caminho: ''
+    modificado: '2026-10-09T13:12:28.494Z'
+    link_leitura: https://docs.google.com/document/d/1qhgywPpOaITPLnPdvU8dzkBwIwztqhb_AyQfAGn0_zQ/export?format=txt
+    link_visualizacao: https://drive.google.com/file/d/1qhgywPpOaITPLnPdvU8dzkBwIwztqhb_AyQfAGn0_zQ/view
+    status: ok
+    semana: '13'
+    resumo: 'Enunciado da Entrega 2 (2,5 pontos, prazo 06/11): completar o site da organização real da Entrega 1 com CSS e JavaScript, em ao menos 10 páginas interligadas, com formulário validado em HTML5, áudio, vídeo, SVG, Grid e Flexbox, validação W3C, repositório no GitHub, README e hospedagem pública.'
+    topicos:
+    - Entrega 2
+    - organização real
+    - 10 páginas
+    - formulário com validação HTML5
+    - multimídia e SVG
+    - Grid e Flexbox
+    - evento em JavaScript
+    - validação W3C
+    - README
+    - hospedagem e domínio
+    secoes:
+    - 1. Visão geral
+    - 2. A organização real
+    - 3. Estrutura do site (10 páginas)
+    - 4. Requisitos técnicos obrigatórios
+    - 5. Repositório no GitHub
+    - 6. README do projeto
+    - 7. Hospedagem
   1qbb13Bg0obEziJNStU3ahDMLsC-XBC96:
     nome: 00_Links importantes.docx
     tipo: DOCX

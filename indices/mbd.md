@@ -1,6 +1,6 @@
 # Índice do material: Modelagem de Banco de Dados
 
-> Atualizado em 2026-10-05. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
+> Atualizado em 2026-10-12. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
 ## Semana 1
 
@@ -349,16 +349,74 @@
 - **Leitura:** https://drive.google.com/uc?export=download&id=1McasPjYWB8aEAoZziTbBcFG9xwP156G_
 - **Visualizar:** https://drive.google.com/file/d/1McasPjYWB8aEAoZziTbBcFG9xwP156G_/view
 
+## Semana 10
+
+### 06-01_DDL e Tipos de Dados.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Relatório sobre DDL e tipos de dados: SQL como linguagem declarativa, comandos CREATE, ALTER, DROP e TRUNCATE, famílias de tipos (texto, números, lógicos, data e hora), restrições e a passagem do modelo lógico para o banco, com aplicações no mercado, erros comuns e glossário.
+- **Tópicos:** DDL; CREATE TABLE; ALTER TABLE; DROP × TRUNCATE; tipos de dados; restrições
+- **Seções:** 1. Contextualização; 2. Conceitos Fundamentais; 3. Desenvolvimento: Articulação dos Conceitos; 4. Aplicação Prática no Mercado de Trabalho; 5. Erros e Confusões Frequentes; 6. Síntese; 7. Glossário
+- **Leitura:** https://drive.google.com/uc?export=download&id=1EikW9Uh_ej3kTFFaDc44eA7x1DHp762n
+- **Visualizar:** https://drive.google.com/file/d/1EikW9Uh_ej3kTFFaDc44eA7x1DHp762n/view
+
+### 06-02_DDL e Tipos de Dados.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Slides da aula de laboratório de DDL: DDL × DML, os quatro comandos (CREATE, ALTER, DROP, TRUNCATE) com exemplos, famílias de tipos e quando usar cada um, NULL, e um roteiro de cinco passos para transformar o modelo lógico em tabelas.
+- **Tópicos:** DDL; DDL × DML; CREATE, ALTER, DROP, TRUNCATE; CHAR, VARCHAR, TEXT; INT, DECIMAL, FLOAT; BOOLEAN, DATE, TIMESTAMP; NULL; do modelo lógico ao banco
+- **Seções:** Ponto de partida; Do modelo lógico ao banco real; DDL × DML; Parte 1 — Os comandos da DDL; O que cada um faz; A primeira tabela (CREATE TABLE); Mudar, esvaziar, remover (ALTER · TRUNCATE · DROP); DROP × TRUNCATE; Quatro famílias de tipos; Três formas de guardar texto; Exatos e aproximados; BOOLEAN e seus três estados; Do atributo ao tipo
+- **Leitura:** https://drive.google.com/uc?export=download&id=1sWG8vb_mjPc8WugZZr6lvm8II2jKyvTC
+- **Visualizar:** https://drive.google.com/file/d/1sWG8vb_mjPc8WugZZr6lvm8II2jKyvTC/view
+
+### 06-03_Fundamentos de DML.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Relatório sobre DML: linguagem declarativa, subconjuntos da SQL, comandos INSERT, UPDATE, DELETE e SELECT com junções (JOIN), como se articulam com a integridade referencial, uso no mercado e erros comuns, como UPDATE ou DELETE sem WHERE.
+- **Tópicos:** DML; INSERT; UPDATE; DELETE; SELECT; JOIN; DELETE × TRUNCATE
+- **Seções:** 2. Conceitos fundamentais; 2.1 Linguagem Declarativa vs. Imperativa (4GL); 2.2 O conjunto DML (Data Manipulation Language) e suas subdivisões; 2.3 Comando INSERT; 2.4 Comando UPDATE; 2.5 Comando DELETE; 2.6 Comando SELECT (DQL/DML) e Junções com JOIN; 3. Desenvolvimento: articulação e funcionamento dos comandos DML; 4. Aplicação prática no mercado de trabalho; 5. Erros e confusões frequentes; 6. Síntese do aprendizado; 7. Glossário
+- **Leitura:** https://drive.google.com/uc?export=download&id=1OQh-xhmiEXzCTvpVq6hoYfpcliGX_tyN
+- **Visualizar:** https://drive.google.com/file/d/1OQh-xhmiEXzCTvpVq6hoYfpcliGX_tyN/view
+
+### 06-04_Fundamentos de DML.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Slides de DML sobre um cenário de clientes e pedidos: subconjuntos da SQL (DDL, DML, DQL, DCL, DTL), INSERT, SELECT com filtros e JOIN, UPDATE e DELETE, DELETE × TRUNCATE e erros típicos (sem WHERE, tipo errado, JOIN sem ON, ordem do DELETE com chave estrangeira).
+- **Tópicos:** DML; subconjuntos da SQL; INSERT; SELECT e JOIN; UPDATE; DELETE; DELETE × TRUNCATE; erros comuns
+- **Seções:** A estrutura não basta; Dizer o quê, não como; Os subconjuntos da SQL; Clientes e pedidos; Parte 1 — Gravar dados: INSERT; O que o INSERT verifica; Parte 2 — Ler dados: SELECT; Juntar o que a normalização separou (SELECT com JOIN); Parte 3 — Alterar e remover: UPDATE e DELETE; Primeiro os filhos, depois o pai; DELETE ou TRUNCATE?; Onde a turma costuma errar; Síntese
+- **Leitura:** https://drive.google.com/uc?export=download&id=1jDVDsBbh6OygpZ2l0FdVFrOpsNSWbgtB
+- **Visualizar:** https://drive.google.com/file/d/1jDVDsBbh6OygpZ2l0FdVFrOpsNSWbgtB/view
+
+## Semana 11
+
+### 07-01_Guia prático MySQL no myCompiler e no MySQL Workbench
+
+- **Tipo:** Google Docs · **Modificado:** 2026-10-11
+- **Resumo:** Guia passo a passo para rodar MySQL no myCompiler.io (no navegador, sem instalar) e no MySQL Workbench (instalação, conexão local, editor de SQL e DER com engenharia reversa e direta), com uma tabela que compara as duas ferramentas.
+- **Tópicos:** MySQL; myCompiler; MySQL Workbench; conexão local; mensagens de erro; engenharia reversa; DER EER
+- **Seções:** Qual ferramenta usar; Parte 1 — MySQL no myCompiler.io; 4. Ler uma mensagem de erro; 5. Salvar e compartilhar; Parte 2 — MySQL Workbench; 2. A tela inicial e a conexão; 3. O editor de SQL; 5. DER: modelo, engenharia reversa e direta
+- **Leitura:** https://docs.google.com/document/d/1-vUN7KdYUka6NrGT5WvwyBz0UL_OV0tjxiOdxTAAYfM/export?format=txt
+- **Visualizar:** https://drive.google.com/file/d/1-vUN7KdYUka6NrGT5WvwyBz0UL_OV0tjxiOdxTAAYfM/view
+
 ## Semana 13
 
 ### 00-d_Esqueleto_Entrega_2.md
 
-- **Tipo:** Markdown · **Modificado:** 2026-08-31
-- **Resumo:** Esqueleto dos artefatos da Entrega 2: relatório técnico (conversão para o modelo lógico, chaves, normalização até a 3FN, justificativas, proposta de BI e IA), modelo lógico, script SQL completo, massa de dados fictícia, repositório, uso de IA e apresentação corporativa, com o peso de cada item.
+- **Tipo:** Markdown · **Modificado:** 2026-10-09
+- **Resumo:** Esqueleto dos artefatos da Entrega 2 (mesma organização real da Entrega 1): relatório técnico (revisão do DER, conversão para o modelo lógico, chaves, normalização até a 3FN, justificativas, proposta de BI e IA), modelo lógico, script SQL completo, massa de dados fictícia, repositório, uso de IA, apresentação corporativa e critérios atitudinais (avaliação 360º), com o peso de cada item.
 - **Tópicos:** Entrega 2; modelo lógico; normalização; chaves; script SQL; massa de dados; BI e KPIs; uso de IA; apresentação
-- **Seções:** 1. Relatório Técnico Final; 1.2 Conversão do Modelo Conceitual para o Modelo Lógico; 1.3 Definição de Chaves Primárias e Estrangeiras; 1.4 Processo de Normalização (1FN, 2FN e 3FN); 1.5 Justificativas Técnicas das Decisões; 1.6 Proposta de Arquitetura Analítica para BI e IA; 2. Modelo Lógico Relacional; 3. Script SQL Completo; 4. Massa de Dados; 5. Repositório GitHub; 6. Uso de Inteligência Artificial; 7. Apresentação Corporativa Final; Resumo dos Pesos
+- **Seções:** 1. Relatório Técnico Final; 1.1 Revisão do Modelo Conceitual; 1.2 Conversão do Modelo Conceitual para o Modelo Lógico; 1.3 Definição de Chaves Primárias e Estrangeiras; 1.4 Processo de Normalização (1FN, 2FN e 3FN); 1.5 Justificativas Técnicas das Decisões; 1.6 Proposta de Arquitetura Analítica para BI e IA; 2. Modelo Lógico Relacional; 3. Script SQL Completo; 4. Massa de Dados; 5. Repositório GitHub; 6. Uso de Inteligência Artificial; 7. Apresentação Corporativa Final; Critérios Atitudinais (20%); Resumo dos Pesos
 - **Leitura:** https://drive.google.com/uc?export=download&id=1uE7XisId8OvvWTsgOXg1tvFNldTe3Ill
 - **Visualizar:** https://drive.google.com/file/d/1uE7XisId8OvvWTsgOXg1tvFNldTe3Ill/view
+
+### 00-i_Entrega_2_Modelagem_de_Banco_de_Dados.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-09
+- **Resumo:** Slides de orientação da Entrega 2: prazos por turma (04 a 10/11), pesos das três dimensões, exigência de organização real, regras do repositório (só a branch main; relatório no README.md), notação do DER e do modelo lógico no brModelo, KPIs e rastreabilidade problema → tabelas → consulta, ordem do script SQL, massa de dados, uso de IA e regras do pitch de 8 minutos.
+- **Tópicos:** Entrega 2; prazos; organização real; regras do repositório; notação brModelo; KPI; rastreabilidade; script SQL; consultas gerenciais e de auditoria; massa de dados; pitch
+- **Seções:** Prazos — Quando entregar; Parte 1 — A organização e o modelo conceitual; Regra do repositório; Notação do DER; Parte 2 — Do conceitual ao relacional; Seção 1.6 — O que é um KPI; Rastreabilidade; Seção 2 — Modelo lógico no brModelo; Parte 3 — Implementação e repositório; Consultas G e A; Seção 4 — Massa de dados; Seção 6 — Uso de IA; Parte 4 — Apresentação corporativa final; Critérios atitudinais
+- **Leitura:** https://drive.google.com/uc?export=download&id=1Qj6pQBuq9UXrdVBIC8Xg7rVB7NDc1gTb
+- **Visualizar:** https://drive.google.com/file/d/1Qj6pQBuq9UXrdVBIC8Xg7rVB7NDc1gTb/view
 
 ## Sem semana definida
 

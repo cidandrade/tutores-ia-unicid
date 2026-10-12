@@ -1,6 +1,6 @@
 # Índice do material: Paradigmas de Linguagens de Programação
 
-> Atualizado em 2026-10-06. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
+> Atualizado em 2026-10-12. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
 ## Semana 1
 
@@ -294,8 +294,8 @@
 
 ### 00_Links importantes
 
-- **Tipo:** Google Docs · **Modificado:** 2026-10-04
-- **Resumo:** Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.
+- **Tipo:** Google Docs · **Modificado:** 2026-10-11
+- **Resumo:** Links da disciplina (Drive, playlist, podcasts, redes sociais, oficinas interativas de heap, comandos e procedimentos e o artefato de concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, prova regimental (A1) em 25/11 e AF em 09/12.
 - **Tópicos:** links da disciplina; datas de avaliação; seminários; prova da A2; A1; AF
 - **Seções:** Links; Datas
 - **Leitura:** https://docs.google.com/document/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/export?format=txt
@@ -303,8 +303,8 @@
 
 ### 00_Links importantes.docx
 
-- **Tipo:** DOCX · **Modificado:** 2026-10-04
-- **Resumo:** Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.
+- **Tipo:** DOCX · **Modificado:** 2026-10-11
+- **Resumo:** Links da disciplina (Drive, playlist, podcasts, redes sociais, oficinas interativas de heap, comandos e procedimentos e o artefato de concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, prova regimental (A1) em 25/11 e AF em 09/12.
 - **Tópicos:** links da disciplina; datas de avaliação; seminários; prova da A2; A1; AF
 - **Seções:** Links; Datas
 - **Leitura:** https://drive.google.com/uc?export=download&id=1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz

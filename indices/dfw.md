@@ -1,6 +1,6 @@
 # Índice do material: Desenvolvimento Front-End para Web
 
-> Atualizado em 2026-10-05. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
+> Atualizado em 2026-10-12. Material oficial da disciplina, numa pasta pública do Google Drive. Para ler um arquivo, use o **link de leitura** (abre sem login). O link de visualização é para o aluno.
 
 ## Semana 1
 
@@ -379,6 +379,46 @@
 - **Seções:** PARTE 1 Fundamentos; VARIÁVEIS: Onde o estado fica guardado; ESCOPO: Quem enxerga a variável; FUNÇÕES E EVENTOS: A receita e o alarme; DOM: A página como árvore de objetos; PARTE 2 · REVISÃO U1.3 Vídeo e áudio; MÍDIA · MÉTODOS; MÍDIA · PROPRIEDADES; MÍDIA · EVENTOS; NA PRÁTICA: Um player em quatro passos; Erros frequentes; Síntese
 - **Leitura:** https://drive.google.com/uc?export=download&id=1-Slftw3QXqyU-PZUnlKR4h7_1WZmCjQE
 - **Visualizar:** https://drive.google.com/file/d/1-Slftw3QXqyU-PZUnlKR4h7_1WZmCjQE/view
+
+### 06-01_integrador.zip
+
+- **Tipo:** ZIP · **Modificado:** 2026-10-09
+- **Resumo:** Projeto integrador de exemplo ("Duelo de Sagas"): uma página com HTML semântico, CSS dividido em reset, variáveis, layout e componentes, tabela, cards, vídeo, áudio, iframe, SVG e canvas, e JavaScript comentado para troca de tema, controles de mídia e votação desenhada no canvas.
+- **Tópicos:** projeto integrador; HTML semântico; variáveis CSS; layout e componentes; multimídia; SVG e canvas; JavaScript e DOM; eventos
+- **Seções:** index.html; css/reset.css; css/variaveis.css; css/layout.css; css/componentes.css; js/script.js
+- **Leitura:** https://drive.google.com/uc?export=download&id=1GHqAfoQot864wV9UIwxekLUTycFiXY3w
+- **Visualizar:** https://drive.google.com/file/d/1GHqAfoQot864wV9UIwxekLUTycFiXY3w/view
+
+## Semana 10
+
+### 07-01_LocalStorage, SessionStorage e Cookies.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Relatório sobre armazenamento no navegador: LocalStorage (sem expiração), SessionStorage (dura a aba) e cookies (enviados ao servidor, com atributos como expires, max-age, domain, path, Secure, HttpOnly e SameSite), comparação entre os três, usos práticos e erros comuns.
+- **Tópicos:** LocalStorage; SessionStorage; cookies; atributos de cookie; Web Storage API; segurança e privacidade
+- **Seções:** 1. Contextualização; 2. Conceitos fundamentais; 3. Desenvolvimento: como os conceitos se articulam; 4. Aplicação; 5. Erros e confusões frequentes; 6. Síntese; 7. Glossário
+- **Leitura:** https://drive.google.com/uc?export=download&id=1YwcFIhI5Rv_seczlC0NakFdmvTbdfacr
+- **Visualizar:** https://drive.google.com/file/d/1YwcFIhI5Rv_seczlC0NakFdmvTbdfacr/view
+
+### 07-02_LocalStorage, SessionStorage e Cookies.pdf
+
+- **Tipo:** PDF · **Modificado:** 2026-10-11
+- **Resumo:** Slides da aula sobre guardar estado no navegador: por que o HTTP não tem memória, LocalStorage e SessionStorage (métodos, valores sempre em texto, mesma origem), cookies com document.cookie e seus atributos de tempo, escopo e segurança, comparação entre os três e um exemplo de e-commerce que usa todos.
+- **Tópicos:** LocalStorage; SessionStorage; cookies; Web Storage API; atributos de cookie; JSON.stringify e JSON.parse
+- **Seções:** O problema; Três situações do dia a dia; Parte 1 — Web Storage API; O cofre que não fecha (LocalStorage); Os quatro métodos; Chave e valor são sempre string; O bloco de rascunho da aba (SessionStorage); Mesma origem; Parte 2 — Cookies; document.cookie; Quanto tempo e para onde; Os de segurança; Os três lado a lado; Um e-commerce usa os três; Onde a escolha costuma errar; A pergunta que decide
+- **Leitura:** https://drive.google.com/uc?export=download&id=17GltqogeaMIOQ_Se-AGLi64J9Z3vrZqs
+- **Visualizar:** https://drive.google.com/file/d/17GltqogeaMIOQ_Se-AGLi64J9Z3vrZqs/view
+
+## Semana 13
+
+### 00-06_Entrega2.md
+
+- **Tipo:** Google Docs · **Modificado:** 2026-10-09
+- **Resumo:** Enunciado da Entrega 2 (2,5 pontos, prazo 06/11): completar o site da organização real da Entrega 1 com CSS e JavaScript, em ao menos 10 páginas interligadas, com formulário validado em HTML5, áudio, vídeo, SVG, Grid e Flexbox, validação W3C, repositório no GitHub, README e hospedagem pública.
+- **Tópicos:** Entrega 2; organização real; 10 páginas; formulário com validação HTML5; multimídia e SVG; Grid e Flexbox; evento em JavaScript; validação W3C; README; hospedagem e domínio
+- **Seções:** 1. Visão geral; 2. A organização real; 3. Estrutura do site (10 páginas); 4. Requisitos técnicos obrigatórios; 5. Repositório no GitHub; 6. README do projeto; 7. Hospedagem
+- **Leitura:** https://docs.google.com/document/d/1qhgywPpOaITPLnPdvU8dzkBwIwztqhb_AyQfAGn0_zQ/export?format=txt
+- **Visualizar:** https://drive.google.com/file/d/1qhgywPpOaITPLnPdvU8dzkBwIwztqhb_AyQfAGn0_zQ/view
 
 ## Sem semana definida
 

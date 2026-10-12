@@ -1,7 +1,7 @@
 disciplina: Paradigmas de Linguagens de Programação
 sigla: plp
 pasta_drive: 1ueryzU01WBlCYrnpjuMFCtN6rhzVfVn8
-atualizado_em: '2026-10-06'
+atualizado_em: '2026-10-12'
 arquivos:
   1EsPgbNPTsOF23rSMedtLcXurtod4tQf-:
     nome: 01-a_Apresentacao_Prof.pdf
@@ -713,12 +713,12 @@ arquivos:
     nome: 00_Links importantes
     tipo: Google Docs
     caminho: ''
-    modificado: '2026-10-04T20:58:22.530Z'
+    modificado: '2026-10-11T18:35:06.693Z'
     link_leitura: https://docs.google.com/document/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/export?format=txt
     link_visualizacao: https://drive.google.com/file/d/1f6PgHGMUQXOk0CzhmKHYs6QkfMtExiwgpDj4Zr6irCE/view
     status: ok
     semana: ''
-    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.'
+    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais, oficinas interativas de heap, comandos e procedimentos e o artefato de concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, prova regimental (A1) em 25/11 e AF em 09/12.'
     topicos: &id001
     - links da disciplina
     - datas de avaliação
@@ -733,12 +733,12 @@ arquivos:
     nome: 00_Links importantes.docx
     tipo: DOCX
     caminho: ''
-    modificado: '2026-10-04T20:57:55.018Z'
+    modificado: '2026-10-11T18:34:06.505Z'
     link_leitura: https://drive.google.com/uc?export=download&id=1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz
     link_visualizacao: https://drive.google.com/file/d/1l7lPdHotySlCz5ePudVj4-VPfLbbvpAz/view
     status: ok
     semana: ''
-    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais e oficinas interativas de heap, comandos, procedimentos e concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, A1 em 25/11 e AF em 09/12.'
+    resumo: 'Links da disciplina (Drive, playlist, podcasts, redes sociais, oficinas interativas de heap, comandos e procedimentos e o artefato de concorrência) e o calendário: entregas e seminários de Concorrente em 14/10, Funcional em 28/10 e Lógico em 11/11, prova da A2 em 18/11, prova regimental (A1) em 25/11 e AF em 09/12.'
     topicos: *id001
     secoes: *id002
   1Xq9YJbSIspLUcP2ZHB8O1Ffs-kKr4M2n:
